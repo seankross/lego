@@ -1,0 +1,2 @@
+load("/Users/sean/Developer/GitHub/lego/data/legosets.rda")
+lego
