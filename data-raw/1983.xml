@@ -1,0 +1,2681 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://brickset.com/api/">
+  <sets>
+    <setID>3790</setID>
+    <number>710</number>
+    <numberVariant>3</numberVariant>
+    <name>Basic Building Set, 7+</name>
+    <year>1983</year>
+    <theme>Basic</theme>
+    <themeGroup>Basic</themeGroup>
+    <subtheme />
+    <pieces>364</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>710-3</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_710-3_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/710-3.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/710-3.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/710-3</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>61</ownedByTotal>
+    <wantedByTotal>47</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-03-16T05:22:38.127</lastUpdated>
+  </sets>
+  <sets>
+    <setID>22555</setID>
+    <number>757</number>
+    <numberVariant>1</numberVariant>
+    <name>Storage Tray Red</name>
+    <year>1983</year>
+    <theme>Gear</theme>
+    <themeGroup>Miscellaneous</themeGroup>
+    <subtheme>Storage</subtheme>
+    <pieces />
+    <minifigs />
+    <image>true</image>
+    <imageFilename>757-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_757-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/757-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/757-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/757-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>19</ownedByTotal>
+    <wantedByTotal>29</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-02-13T20:41:18.17</lastUpdated>
+  </sets>
+  <sets>
+    <setID>22556</setID>
+    <number>758</number>
+    <numberVariant>1</numberVariant>
+    <name>Storage Tray Blue</name>
+    <year>1983</year>
+    <theme>Gear</theme>
+    <themeGroup>Miscellaneous</themeGroup>
+    <subtheme>Storage</subtheme>
+    <pieces />
+    <minifigs />
+    <image>true</image>
+    <imageFilename>758-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_758-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/758-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/758-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/758-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>21</ownedByTotal>
+    <wantedByTotal>29</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-02-13T20:41:37.253</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7831</setID>
+    <number>1031</number>
+    <numberVariant>1</numberVariant>
+    <name>Building Cards - 1030</name>
+    <year>1983</year>
+    <theme>Dacta</theme>
+    <themeGroup>Educational</themeGroup>
+    <subtheme />
+    <pieces>20</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>1031-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1031-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1031-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/1031-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/1031-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>57</ownedByTotal>
+    <wantedByTotal>22</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice>15.75</USRetailPrice>
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-04-01T08:58:35.86</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7850</setID>
+    <number>1055</number>
+    <numberVariant>1</numberVariant>
+    <name>Mini Basic Pack</name>
+    <year>1983</year>
+    <theme>Dacta</theme>
+    <themeGroup>Educational</themeGroup>
+    <subtheme />
+    <pieces />
+    <minifigs />
+    <image>false</image>
+    <bricksetURL>http://brickset.com/sets/1055-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>5</ownedByTotal>
+    <wantedByTotal>21</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>22612</setID>
+    <number>1126</number>
+    <numberVariant>1</numberVariant>
+    <name>Jack</name>
+    <year>1983</year>
+    <theme>Service Packs</theme>
+    <themeGroup>Miscellaneous</themeGroup>
+    <subtheme />
+    <pieces>2</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>1126-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1126-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1126-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/1126-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/1126-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>11</ownedByTotal>
+    <wantedByTotal>14</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Polybag</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-03-10T05:09:36.633</lastUpdated>
+  </sets>
+  <sets>
+    <setID>22613</setID>
+    <number>1161</number>
+    <numberVariant>1</numberVariant>
+    <name>Pump cylinder</name>
+    <year>1983</year>
+    <theme>Service Packs</theme>
+    <themeGroup>Miscellaneous</themeGroup>
+    <subtheme>Technic</subtheme>
+    <pieces>1</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>1161-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1161-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1161-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/1161-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/1161-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>3</ownedByTotal>
+    <wantedByTotal>16</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Polybag</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-03-10T05:10:17.437</lastUpdated>
+  </sets>
+  <sets>
+    <setID>440</setID>
+    <number>1593</number>
+    <numberVariant>1</numberVariant>
+    <name>Super Model Building Instructions</name>
+    <year>1983</year>
+    <theme>Space</theme>
+    <themeGroup>Action/Adventure</themeGroup>
+    <subtheme>Classic</subtheme>
+    <pieces>313</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>1593-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1593-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1593-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/1593-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/1593-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>204</ownedByTotal>
+    <wantedByTotal>310</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>1.92857142857143</rating>
+    <reviewCount>6</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-10-09T14:59:15.167</lastUpdated>
+  </sets>
+  <sets>
+    <setID>22551</setID>
+    <number>1907</number>
+    <numberVariant>1</numberVariant>
+    <name>Crecer Feliz Giftbox</name>
+    <year>1983</year>
+    <theme>Duplo</theme>
+    <themeGroup>Pre-school</themeGroup>
+    <subtheme />
+    <pieces>2</pieces>
+    <minifigs />
+    <image>false</image>
+    <bricksetURL>http://brickset.com/sets/1907-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>1</ownedByTotal>
+    <wantedByTotal>6</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-02-13T17:19:14.337</lastUpdated>
+  </sets>
+  <sets>
+    <setID>22552</setID>
+    <number>1911</number>
+    <numberVariant>1</numberVariant>
+    <name>Basic Set</name>
+    <year>1983</year>
+    <theme>Basic</theme>
+    <themeGroup>Basic</themeGroup>
+    <subtheme />
+    <pieces>34</pieces>
+    <minifigs />
+    <image>false</image>
+    <bricksetURL>http://brickset.com/sets/1911-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>6</ownedByTotal>
+    <wantedByTotal>8</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail - limited</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-02-13T17:20:55.003</lastUpdated>
+  </sets>
+  <sets>
+    <setID>657</setID>
+    <number>1912</number>
+    <numberVariant>1</numberVariant>
+    <name>Car</name>
+    <year>1983</year>
+    <theme>Basic</theme>
+    <themeGroup>Basic</themeGroup>
+    <subtheme />
+    <pieces>20</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>1912-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1912-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1912-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/1912-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/1912-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>115</ownedByTotal>
+    <wantedByTotal>40</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Polybag</packagingType>
+    <availability>Promotional</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-02-02T23:09:47.267</lastUpdated>
+  </sets>
+  <sets>
+    <setID>658</setID>
+    <number>1913</number>
+    <numberVariant>1</numberVariant>
+    <name>Boat</name>
+    <year>1983</year>
+    <theme>Basic</theme>
+    <themeGroup>Basic</themeGroup>
+    <subtheme />
+    <pieces>27</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>1913-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1913-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1913-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/1913-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/1913-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>96</ownedByTotal>
+    <wantedByTotal>37</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Polybag</packagingType>
+    <availability>Promotional</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-02-02T23:12:46.06</lastUpdated>
+  </sets>
+  <sets>
+    <setID>659</setID>
+    <number>1914</number>
+    <numberVariant>1</numberVariant>
+    <name>Helicopter</name>
+    <year>1983</year>
+    <theme>Basic</theme>
+    <themeGroup>Basic</themeGroup>
+    <subtheme />
+    <pieces>20</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>1914-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1914-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1914-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/1914-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/1914-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>122</ownedByTotal>
+    <wantedByTotal>36</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Polybag</packagingType>
+    <availability>Promotional</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-02-02T23:11:16.347</lastUpdated>
+  </sets>
+  <sets>
+    <setID>660</setID>
+    <number>1915</number>
+    <numberVariant>1</numberVariant>
+    <name>Aircraft</name>
+    <year>1983</year>
+    <theme>Basic</theme>
+    <themeGroup>Basic</themeGroup>
+    <subtheme />
+    <pieces>20</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>1915-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1915-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1915-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/1915-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/1915-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>87</ownedByTotal>
+    <wantedByTotal>39</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.25</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>Polybag</packagingType>
+    <availability>Promotional</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-02-02T23:10:14.507</lastUpdated>
+  </sets>
+  <sets>
+    <setID>22553</setID>
+    <number>1918</number>
+    <numberVariant>1</numberVariant>
+    <name>Bird</name>
+    <year>1983</year>
+    <theme>Duplo</theme>
+    <themeGroup>Pre-school</themeGroup>
+    <subtheme />
+    <pieces>5</pieces>
+    <minifigs />
+    <image>false</image>
+    <bricksetURL>http://brickset.com/sets/1918-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>3</ownedByTotal>
+    <wantedByTotal>6</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Polybag</packagingType>
+    <availability>Promotional</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-02-13T20:26:05.877</lastUpdated>
+  </sets>
+  <sets>
+    <setID>5874</setID>
+    <number>1919</number>
+    <numberVariant>1</numberVariant>
+    <name>Duplo Promotional Set</name>
+    <year>1983</year>
+    <theme>Duplo</theme>
+    <themeGroup>Pre-school</themeGroup>
+    <subtheme />
+    <pieces>4</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>1919-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1919-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1919-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/1919-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/1919-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>12</ownedByTotal>
+    <wantedByTotal>15</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Polybag</packagingType>
+    <availability>Promotional</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-02-13T20:26:27.11</lastUpdated>
+  </sets>
+  <sets>
+    <setID>664</setID>
+    <number>1924</number>
+    <numberVariant>1</numberVariant>
+    <name>Motorcycle</name>
+    <year>1983</year>
+    <theme>Technic</theme>
+    <themeGroup>Technical</themeGroup>
+    <subtheme />
+    <pieces>103</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>1924-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1924-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1924-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/1924-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/1924-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>184</ownedByTotal>
+    <wantedByTotal>121</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>4.125</rating>
+    <reviewCount>3</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail - limited</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2012-10-12T03:59:57.207</lastUpdated>
+  </sets>
+  <sets>
+    <setID>9242</setID>
+    <number>1944</number>
+    <numberVariant>1</numberVariant>
+    <name>Universal Building Set with Storage Case</name>
+    <year>1983</year>
+    <theme>Basic</theme>
+    <themeGroup>Basic</themeGroup>
+    <subtheme />
+    <pieces>138</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>1944-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1944-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1944-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/1944-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/1944-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>50</ownedByTotal>
+    <wantedByTotal>22</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2011-12-30T18:18:51.24</lastUpdated>
+  </sets>
+  <sets>
+    <setID>691</setID>
+    <number>1977</number>
+    <numberVariant>1</numberVariant>
+    <name>Special Three-Set Space Pack</name>
+    <year>1983</year>
+    <theme>Space</theme>
+    <themeGroup>Action/Adventure</themeGroup>
+    <subtheme>Bonus/Value Pack</subtheme>
+    <pieces>82</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>1977-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1977-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1977-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/1977-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/1977-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>39</ownedByTotal>
+    <wantedByTotal>95</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2005-07-01T05:07:07</lastUpdated>
+  </sets>
+  <sets>
+    <setID>693</setID>
+    <number>1978</number>
+    <numberVariant>2</numberVariant>
+    <name>Town Value Pack</name>
+    <year>1983</year>
+    <theme>Town</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Bonus/Value Pack</subtheme>
+    <pieces>100</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>1978-2</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1978-2_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1978-2.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/1978-2.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/1978-2</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>24</ownedByTotal>
+    <wantedByTotal>78</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail - limited</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2012-09-26T23:51:14.617</lastUpdated>
+  </sets>
+  <sets>
+    <setID>716</setID>
+    <number>2015</number>
+    <numberVariant>1</numberVariant>
+    <name>Oval Rattle</name>
+    <year>1983</year>
+    <theme>Duplo</theme>
+    <themeGroup>Pre-school</themeGroup>
+    <subtheme>Baby</subtheme>
+    <pieces>1</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>2015-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_2015-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/2015-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/2015-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/2015-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>22</ownedByTotal>
+    <wantedByTotal>13</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2000-12-09T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>721</setID>
+    <number>2023</number>
+    <numberVariant>1</numberVariant>
+    <name>Square Rattle</name>
+    <year>1983</year>
+    <theme>Duplo</theme>
+    <themeGroup>Pre-school</themeGroup>
+    <subtheme>Baby</subtheme>
+    <pieces>1</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>2023-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_2023-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/2023-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/2023-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/2023-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>15</ownedByTotal>
+    <wantedByTotal>13</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2000-12-09T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>722</setID>
+    <number>2024</number>
+    <numberVariant>1</numberVariant>
+    <name>Duck Rattle</name>
+    <year>1983</year>
+    <theme>Duplo</theme>
+    <themeGroup>Pre-school</themeGroup>
+    <subtheme>Baby</subtheme>
+    <pieces>1</pieces>
+    <minifigs />
+    <image>false</image>
+    <bricksetURL>http://brickset.com/sets/2024-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>25</ownedByTotal>
+    <wantedByTotal>14</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2000-12-09T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>735</setID>
+    <number>2037</number>
+    <numberVariant>1</numberVariant>
+    <name>Spin-A-Coaster</name>
+    <year>1983</year>
+    <theme>Duplo</theme>
+    <themeGroup>Pre-school</themeGroup>
+    <subtheme>Baby</subtheme>
+    <pieces>2</pieces>
+    <minifigs />
+    <image>false</image>
+    <bricksetURL>http://brickset.com/sets/2037-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>15</ownedByTotal>
+    <wantedByTotal>13</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2000-12-09T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>736</setID>
+    <number>2038</number>
+    <numberVariant>1</numberVariant>
+    <name>Activity and Bath Toy</name>
+    <year>1983</year>
+    <theme>Duplo</theme>
+    <themeGroup>Pre-school</themeGroup>
+    <subtheme>Baby</subtheme>
+    <pieces>2</pieces>
+    <minifigs />
+    <image>false</image>
+    <bricksetURL>http://brickset.com/sets/2038-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>11</ownedByTotal>
+    <wantedByTotal>13</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2000-12-09T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>891</setID>
+    <number>2365</number>
+    <numberVariant>1</numberVariant>
+    <name>Basic Set Safari</name>
+    <year>1983</year>
+    <theme>Duplo</theme>
+    <themeGroup>Pre-school</themeGroup>
+    <subtheme />
+    <pieces>34</pieces>
+    <minifigs />
+    <image>false</image>
+    <bricksetURL>http://brickset.com/sets/2365-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>4</ownedByTotal>
+    <wantedByTotal>11</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-02-13T20:44:52.56</lastUpdated>
+  </sets>
+  <sets>
+    <setID>22557</setID>
+    <number>2401</number>
+    <numberVariant>1</numberVariant>
+    <name>Racer</name>
+    <year>1983</year>
+    <theme>Duplo</theme>
+    <themeGroup>Pre-school</themeGroup>
+    <subtheme />
+    <pieces>3</pieces>
+    <minifigs>1</minifigs>
+    <image>false</image>
+    <bricksetURL>http://brickset.com/sets/2401-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>1</ownedByTotal>
+    <wantedByTotal>5</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-02-13T20:42:38.963</lastUpdated>
+  </sets>
+  <sets>
+    <setID>22558</setID>
+    <number>2402</number>
+    <numberVariant>1</numberVariant>
+    <name>Police Car</name>
+    <year>1983</year>
+    <theme>Duplo</theme>
+    <themeGroup>Pre-school</themeGroup>
+    <subtheme />
+    <pieces>5</pieces>
+    <minifigs>1</minifigs>
+    <image>false</image>
+    <bricksetURL>http://brickset.com/sets/2402-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>1</ownedByTotal>
+    <wantedByTotal>6</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-02-13T20:43:38.553</lastUpdated>
+  </sets>
+  <sets>
+    <setID>22559</setID>
+    <number>2411</number>
+    <numberVariant>1</numberVariant>
+    <name>Camping</name>
+    <year>1983</year>
+    <theme>Duplo</theme>
+    <themeGroup>Pre-school</themeGroup>
+    <subtheme />
+    <pieces>11</pieces>
+    <minifigs>2</minifigs>
+    <image>false</image>
+    <bricksetURL>http://brickset.com/sets/2411-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>2</ownedByTotal>
+    <wantedByTotal>5</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-02-13T20:43:59.89</lastUpdated>
+  </sets>
+  <sets>
+    <setID>984</setID>
+    <number>2634</number>
+    <numberVariant>1</numberVariant>
+    <name>Tip Truck</name>
+    <year>1983</year>
+    <theme>Duplo</theme>
+    <themeGroup>Pre-school</themeGroup>
+    <subtheme />
+    <pieces>7</pieces>
+    <minifigs>1</minifigs>
+    <image>false</image>
+    <bricksetURL>http://brickset.com/sets/2634-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>26</ownedByTotal>
+    <wantedByTotal>13</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-02-13T20:21:30.143</lastUpdated>
+  </sets>
+  <sets>
+    <setID>22554</setID>
+    <number>2646</number>
+    <numberVariant>1</numberVariant>
+    <name>Crane Set</name>
+    <year>1983</year>
+    <theme>Duplo</theme>
+    <themeGroup>Pre-school</themeGroup>
+    <subtheme />
+    <pieces>23</pieces>
+    <minifigs>1</minifigs>
+    <image>false</image>
+    <bricksetURL>http://brickset.com/sets/2646-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>3</ownedByTotal>
+    <wantedByTotal>5</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-02-13T20:25:05.813</lastUpdated>
+  </sets>
+  <sets>
+    <setID>1048</setID>
+    <number>2700</number>
+    <numberVariant>1</numberVariant>
+    <name>Train Set</name>
+    <year>1983</year>
+    <theme>Duplo</theme>
+    <themeGroup>Pre-school</themeGroup>
+    <subtheme>Play Trains</subtheme>
+    <pieces>31</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>2700-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_2700-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/2700-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/2700-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/2700-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>33</ownedByTotal>
+    <wantedByTotal>19</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2000-12-09T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>1049</setID>
+    <number>2705</number>
+    <numberVariant>1</numberVariant>
+    <name>Passenger Train</name>
+    <year>1983</year>
+    <theme>Duplo</theme>
+    <themeGroup>Pre-school</themeGroup>
+    <subtheme>Play Trains</subtheme>
+    <pieces>12</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>2705-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_2705-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/2705-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/2705-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/2705-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>98</ownedByTotal>
+    <wantedByTotal>21</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.75</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2007-01-17T02:59:48</lastUpdated>
+  </sets>
+  <sets>
+    <setID>1054</setID>
+    <number>2711</number>
+    <numberVariant>1</numberVariant>
+    <name>Straight Tracks</name>
+    <year>1983</year>
+    <theme>Duplo</theme>
+    <themeGroup>Pre-school</themeGroup>
+    <subtheme>Play Trains</subtheme>
+    <pieces>4</pieces>
+    <minifigs />
+    <image>false</image>
+    <bricksetURL>http://brickset.com/sets/2711-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>31</ownedByTotal>
+    <wantedByTotal>17</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice>4</USRetailPrice>
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2000-12-09T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>1055</setID>
+    <number>2712</number>
+    <numberVariant>1</numberVariant>
+    <name>Curved Tracks</name>
+    <year>1983</year>
+    <theme>Duplo</theme>
+    <themeGroup>Pre-school</themeGroup>
+    <subtheme>Play Trains</subtheme>
+    <pieces>4</pieces>
+    <minifigs />
+    <image>false</image>
+    <bricksetURL>http://brickset.com/sets/2712-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>37</ownedByTotal>
+    <wantedByTotal>16</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice>4</USRetailPrice>
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.25</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2000-12-09T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>1693</setID>
+    <number>3626</number>
+    <numberVariant>1</numberVariant>
+    <name>Roger Racoon and his Sports Car</name>
+    <year>1983</year>
+    <theme>Fabuland</theme>
+    <themeGroup>Junior</themeGroup>
+    <subtheme />
+    <pieces>16</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>3626-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_3626-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/3626-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/3626-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/3626-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>69</ownedByTotal>
+    <wantedByTotal>43</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2000-12-09T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>1694</setID>
+    <number>3627</number>
+    <numberVariant>1</numberVariant>
+    <name>Bonnie Bunny </name>
+    <year>1983</year>
+    <theme>Fabuland</theme>
+    <themeGroup>Junior</themeGroup>
+    <subtheme />
+    <pieces>18</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>3627-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_3627-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/3627-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/3627-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/3627-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>83</ownedByTotal>
+    <wantedByTotal>43</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2000-12-09T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>1703</setID>
+    <number>3637</number>
+    <numberVariant>1</numberVariant>
+    <name>Gertrude Goat the painter</name>
+    <year>1983</year>
+    <theme>Fabuland</theme>
+    <themeGroup>Junior</themeGroup>
+    <subtheme />
+    <pieces>14</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>3637-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_3637-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/3637-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/3637-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/3637-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>79</ownedByTotal>
+    <wantedByTotal>51</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2000-12-09T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>1704</setID>
+    <number>3638</number>
+    <numberVariant>1</numberVariant>
+    <name>Fire Engine</name>
+    <year>1983</year>
+    <theme>Fabuland</theme>
+    <themeGroup>Junior</themeGroup>
+    <subtheme />
+    <pieces>17</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>3638-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_3638-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/3638-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/3638-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/3638-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>101</ownedByTotal>
+    <wantedByTotal>47</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2000-12-09T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>1755</setID>
+    <number>3709</number>
+    <numberVariant>1</numberVariant>
+    <name>Henry Horse the carpenter</name>
+    <year>1983</year>
+    <theme>Fabuland</theme>
+    <themeGroup>Junior</themeGroup>
+    <subtheme />
+    <pieces>2</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>3709-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_3709-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/3709-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/3709-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/3709-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>87</ownedByTotal>
+    <wantedByTotal>42</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2000-12-09T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>1756</setID>
+    <number>3710</number>
+    <numberVariant>1</numberVariant>
+    <name>Patrick Panda</name>
+    <year>1983</year>
+    <theme>Fabuland</theme>
+    <themeGroup>Junior</themeGroup>
+    <subtheme />
+    <pieces>2</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>3710-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_3710-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/3710-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/3710-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/3710-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>112</ownedByTotal>
+    <wantedByTotal>38</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2000-12-09T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>1814</setID>
+    <number>3787</number>
+    <numberVariant>1</numberVariant>
+    <name>Hannah Hippopotamus the public gardener</name>
+    <year>1983</year>
+    <theme>Fabuland</theme>
+    <themeGroup>Junior</themeGroup>
+    <subtheme />
+    <pieces>8</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>3787-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_3787-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/3787-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/3787-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/3787-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>99</ownedByTotal>
+    <wantedByTotal>39</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2000-12-09T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>1815</setID>
+    <number>3788</number>
+    <numberVariant>1</numberVariant>
+    <name>Paulette Poodles' Living Room</name>
+    <year>1983</year>
+    <theme>Fabuland</theme>
+    <themeGroup>Junior</themeGroup>
+    <subtheme />
+    <pieces>12</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>3788-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_3788-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/3788-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/3788-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/3788-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>95</ownedByTotal>
+    <wantedByTotal>43</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2000-12-09T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>2974</setID>
+    <number>6002</number>
+    <numberVariant>1</numberVariant>
+    <name>Town Figures</name>
+    <year>1983</year>
+    <theme>Town</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Accessories</subtheme>
+    <pieces>20</pieces>
+    <minifigs>4</minifigs>
+    <image>true</image>
+    <imageFilename>6002-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6002-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6002-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/6002-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/6002-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>40</ownedByTotal>
+    <wantedByTotal>184</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Blister pack</packagingType>
+    <availability>Retail - limited</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2012-09-26T23:51:37.293</lastUpdated>
+  </sets>
+  <sets>
+    <setID>4924</setID>
+    <number>6002</number>
+    <numberVariant>2</numberVariant>
+    <name>Castle Figures</name>
+    <year>1983</year>
+    <theme>Castle</theme>
+    <themeGroup>Historical</themeGroup>
+    <subtheme>Classic</subtheme>
+    <pieces>22</pieces>
+    <minifigs>4</minifigs>
+    <image>true</image>
+    <imageFilename>6002-2</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6002-2_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6002-2.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/6002-2.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/6002-2</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>61</ownedByTotal>
+    <wantedByTotal>371</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.83333333333333</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Blister pack</packagingType>
+    <availability>Retail - limited</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-02-13T20:17:07.75</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3154</setID>
+    <number>6307</number>
+    <numberVariant>1</numberVariant>
+    <name>Firemen</name>
+    <year>1983</year>
+    <theme>Town</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Accessories</subtheme>
+    <pieces>22</pieces>
+    <minifigs>4</minifigs>
+    <image>true</image>
+    <imageFilename>6307-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6307-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6307-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/6307-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/6307-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>67</ownedByTotal>
+    <wantedByTotal>147</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.25</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>Blister pack</packagingType>
+    <availability>Retail - limited</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-02-28T03:30:56.223</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3224</setID>
+    <number>6371</number>
+    <numberVariant>1</numberVariant>
+    <name>Shell Service Station</name>
+    <year>1983</year>
+    <theme>Town</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Shops and Services</subtheme>
+    <pieces>261</pieces>
+    <minifigs>3</minifigs>
+    <image>true</image>
+    <imageFilename>6371-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6371-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6371-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/6371-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/6371-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>735</ownedByTotal>
+    <wantedByTotal>409</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.5</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2012-09-26T23:52:10.13</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3227</setID>
+    <number>6374</number>
+    <numberVariant>1</numberVariant>
+    <name>Holiday Home</name>
+    <year>1983</year>
+    <theme>Town</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Leisure</subtheme>
+    <pieces>257</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>6374-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6374-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6374-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/6374-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/6374-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>939</ownedByTotal>
+    <wantedByTotal>672</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>4.58333333333333</rating>
+    <reviewCount>5</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2012-09-26T23:52:23</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3239</setID>
+    <number>6384</number>
+    <numberVariant>1</numberVariant>
+    <name>Police Station</name>
+    <year>1983</year>
+    <theme>Town</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Police</subtheme>
+    <pieces>389</pieces>
+    <minifigs>4</minifigs>
+    <image>true</image>
+    <imageFilename>6384-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6384-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6384-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/6384-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/6384-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>1343</ownedByTotal>
+    <wantedByTotal>348</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>4.16666666666667</rating>
+    <reviewCount>8</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2012-09-26T23:52:35.137</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3463</setID>
+    <number>6606</number>
+    <numberVariant>1</numberVariant>
+    <name>Road Repair Set</name>
+    <year>1983</year>
+    <theme>Town</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Maintenance</subtheme>
+    <pieces>27</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>6606-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6606-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6606-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/6606-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/6606-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>1132</ownedByTotal>
+    <wantedByTotal>193</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.83333333333333</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2012-09-26T23:52:49.81</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3479</setID>
+    <number>6623</number>
+    <numberVariant>1</numberVariant>
+    <name>Police Car</name>
+    <year>1983</year>
+    <theme>Town</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Police</subtheme>
+    <pieces>39</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>6623-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6623-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6623-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/6623-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/6623-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>1635</ownedByTotal>
+    <wantedByTotal>222</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>4.07142857142857</rating>
+    <reviewCount>6</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2012-09-26T23:54:23.443</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3480</setID>
+    <number>6624</number>
+    <numberVariant>1</numberVariant>
+    <name>Delivery Van</name>
+    <year>1983</year>
+    <theme>Town</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Vehicles</subtheme>
+    <pieces>41</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>6624-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6624-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6624-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/6624-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/6624-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>1538</ownedByTotal>
+    <wantedByTotal>252</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>4.38888888888889</rating>
+    <reviewCount>8</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2012-09-26T23:54:09.213</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3506</setID>
+    <number>6652</number>
+    <numberVariant>1</numberVariant>
+    <name>Construction Truck</name>
+    <year>1983</year>
+    <theme>Town</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Construction</subtheme>
+    <pieces>44</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>6652-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6652-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6652-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/6652-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/6652-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>1147</ownedByTotal>
+    <wantedByTotal>181</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.625</rating>
+    <reviewCount>3</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2012-09-26T23:53:42.25</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3508</setID>
+    <number>6654</number>
+    <numberVariant>1</numberVariant>
+    <name>Motorcycle Transport</name>
+    <year>1983</year>
+    <theme>Town</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Vehicles</subtheme>
+    <pieces>50</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>6654-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6654-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6654-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/6654-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/6654-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>1502</ownedByTotal>
+    <wantedByTotal>210</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.91666666666667</rating>
+    <reviewCount>5</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2012-09-26T23:53:54.5</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3538</setID>
+    <number>6683</number>
+    <numberVariant>1</numberVariant>
+    <name>Hamburger Stand</name>
+    <year>1983</year>
+    <theme>Town</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Shops and Services</subtheme>
+    <pieces>69</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>6683-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6683-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6683-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/6683-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/6683-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>941</ownedByTotal>
+    <wantedByTotal>624</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>4.77272727272727</rating>
+    <reviewCount>10</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2012-09-26T23:53:28.527</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3547</setID>
+    <number>6692</number>
+    <numberVariant>1</numberVariant>
+    <name>Tractor Trailer</name>
+    <year>1983</year>
+    <theme>Town</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Vehicles</subtheme>
+    <pieces>96</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>6692-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6692-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6692-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/6692-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/6692-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>1040</ownedByTotal>
+    <wantedByTotal>308</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>4.1</rating>
+    <reviewCount>4</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2012-09-26T23:53:02.853</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3556</setID>
+    <number>6701</number>
+    <numberVariant>1</numberVariant>
+    <name>Minifig Pack</name>
+    <year>1983</year>
+    <theme>Space</theme>
+    <themeGroup>Action/Adventure</themeGroup>
+    <subtheme>Classic</subtheme>
+    <pieces>36</pieces>
+    <minifigs>6</minifigs>
+    <image>true</image>
+    <imageFilename>6701-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6701-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6701-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/6701-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/6701-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>538</ownedByTotal>
+    <wantedByTotal>291</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>4.125</rating>
+    <reviewCount>3</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3566</setID>
+    <number>6711</number>
+    <numberVariant>1</numberVariant>
+    <name>Minifig Pack</name>
+    <year>1983</year>
+    <theme>Space</theme>
+    <themeGroup>Action/Adventure</themeGroup>
+    <subtheme>Classic</subtheme>
+    <pieces>24</pieces>
+    <minifigs>4</minifigs>
+    <image>true</image>
+    <imageFilename>6711-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6711-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6711-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/6711-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/6711-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>70</ownedByTotal>
+    <wantedByTotal>243</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice>4.5</USRetailPrice>
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.75</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2002-12-21T22:48:12</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3618</setID>
+    <number>6803</number>
+    <numberVariant>1</numberVariant>
+    <name>Space Patrol</name>
+    <year>1983</year>
+    <theme>Space</theme>
+    <themeGroup>Action/Adventure</themeGroup>
+    <subtheme>Classic</subtheme>
+    <pieces>25</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>6803-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6803-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6803-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/6803-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/6803-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>1402</ownedByTotal>
+    <wantedByTotal>267</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>4.125</rating>
+    <reviewCount>3</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3637</setID>
+    <number>6823</number>
+    <numberVariant>1</numberVariant>
+    <name>Surface Transport</name>
+    <year>1983</year>
+    <theme>Space</theme>
+    <themeGroup>Action/Adventure</themeGroup>
+    <subtheme>Classic</subtheme>
+    <pieces>27</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>6823-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6823-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6823-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/6823-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/6823-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>1908</ownedByTotal>
+    <wantedByTotal>257</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.625</rating>
+    <reviewCount>3</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3654</setID>
+    <number>6844</number>
+    <numberVariant>1</numberVariant>
+    <name>Sismobile</name>
+    <year>1983</year>
+    <theme>Space</theme>
+    <themeGroup>Action/Adventure</themeGroup>
+    <subtheme>Classic</subtheme>
+    <pieces>46</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>6844-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6844-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6844-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/6844-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/6844-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>1170</ownedByTotal>
+    <wantedByTotal>261</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>4.5</rating>
+    <reviewCount>4</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3714</setID>
+    <number>6930</number>
+    <numberVariant>1</numberVariant>
+    <name>Space Supply Station</name>
+    <year>1983</year>
+    <theme>Space</theme>
+    <themeGroup>Action/Adventure</themeGroup>
+    <subtheme>Classic</subtheme>
+    <pieces>206</pieces>
+    <minifigs>4</minifigs>
+    <image>true</image>
+    <imageFilename>6930-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6930-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6930-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/6930-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/6930-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>1329</ownedByTotal>
+    <wantedByTotal>436</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>4.45</rating>
+    <reviewCount>9</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3748</setID>
+    <number>6980</number>
+    <numberVariant>1</numberVariant>
+    <name>Galaxy Commander</name>
+    <year>1983</year>
+    <theme>Space</theme>
+    <themeGroup>Action/Adventure</themeGroup>
+    <subtheme>Classic</subtheme>
+    <pieces>443</pieces>
+    <minifigs>5</minifigs>
+    <image>true</image>
+    <imageFilename>6980-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6980-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6980-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/6980-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/6980-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>1134</ownedByTotal>
+    <wantedByTotal>555</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>4.5</rating>
+    <reviewCount>10</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3998</setID>
+    <number>7727</number>
+    <numberVariant>1</numberVariant>
+    <name>Freight Steam Train Set</name>
+    <year>1983</year>
+    <theme>Trains</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>4.5/12 V</subtheme>
+    <pieces>570</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>7727-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_7727-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/7727-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/7727-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/7727-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>187</ownedByTotal>
+    <wantedByTotal>290</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.75</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>4005</setID>
+    <number>7755</number>
+    <numberVariant>1</numberVariant>
+    <name>Diesel Heavy Shunting Locomotive</name>
+    <year>1983</year>
+    <theme>Trains</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>4.5/12 V</subtheme>
+    <pieces>164</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>7755-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_7755-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/7755-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/7755-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/7755-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>232</ownedByTotal>
+    <wantedByTotal>320</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.83333333333333</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>4011</setID>
+    <number>7815</number>
+    <numberVariant>1</numberVariant>
+    <name>Passenger Carriage / Sleeper</name>
+    <year>1983</year>
+    <theme>Trains</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>4.5/12 V</subtheme>
+    <pieces>228</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>7815-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_7815-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/7815-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/7815-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/7815-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>293</ownedByTotal>
+    <wantedByTotal>362</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>4.16666666666667</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>4015</setID>
+    <number>7819</number>
+    <numberVariant>1</numberVariant>
+    <name>Postal Container Wagon</name>
+    <year>1983</year>
+    <theme>Trains</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>4.5/12 V</subtheme>
+    <pieces>183</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>7819-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_7819-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/7819-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/7819-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/7819-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>310</ownedByTotal>
+    <wantedByTotal>369</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>4017</setID>
+    <number>7821</number>
+    <numberVariant>1</numberVariant>
+    <name>Track &amp; Lighting Maintenance Wagon</name>
+    <year>1983</year>
+    <theme>Trains</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>4.5/12 V</subtheme>
+    <pieces>90</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>7821-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_7821-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/7821-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/7821-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/7821-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>286</ownedByTotal>
+    <wantedByTotal>284</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail - limited</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-02-13T17:15:09.347</lastUpdated>
+  </sets>
+  <sets>
+    <setID>4020</setID>
+    <number>7824</number>
+    <numberVariant>1</numberVariant>
+    <name>Railway Station</name>
+    <year>1983</year>
+    <theme>Trains</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>4.5/12 V</subtheme>
+    <pieces>478</pieces>
+    <minifigs>9</minifigs>
+    <image>true</image>
+    <imageFilename>7824-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_7824-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/7824-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/7824-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/7824-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>613</ownedByTotal>
+    <wantedByTotal>383</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice>44.75</USRetailPrice>
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.83333333333333</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>4029</setID>
+    <number>7838</number>
+    <numberVariant>1</numberVariant>
+    <name>Freight Loading Depot</name>
+    <year>1983</year>
+    <theme>Trains</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>4.5/12 V</subtheme>
+    <pieces>315</pieces>
+    <minifigs>3</minifigs>
+    <image>true</image>
+    <imageFilename>7838-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_7838-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/7838-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/7838-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/7838-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>275</ownedByTotal>
+    <wantedByTotal>320</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.75</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>4048</setID>
+    <number>7866</number>
+    <numberVariant>1</numberVariant>
+    <name>Remote Controlled Road Crossing 12 V</name>
+    <year>1983</year>
+    <theme>Trains</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>4.5/12 V</subtheme>
+    <pieces>191</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>7866-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_7866-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/7866-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/7866-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/7866-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>468</ownedByTotal>
+    <wantedByTotal>322</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>4.16666666666667</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>4049</setID>
+    <number>7867</number>
+    <numberVariant>1</numberVariant>
+    <name>4 Lighting Standards Electric 12 V</name>
+    <year>1983</year>
+    <theme>Trains</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>4.5/12 V</subtheme>
+    <pieces>52</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>7867-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_7867-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/7867-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/7867-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/7867-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>453</ownedByTotal>
+    <wantedByTotal>222</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.75</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>4483</setID>
+    <number>8841</number>
+    <numberVariant>1</numberVariant>
+    <name>Dune Buggy</name>
+    <year>1983</year>
+    <theme>Technic</theme>
+    <themeGroup>Technical</themeGroup>
+    <subtheme />
+    <pieces>180</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>8841-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_8841-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/8841-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/8841-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/8841-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>750</ownedByTotal>
+    <wantedByTotal>118</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.125</rating>
+    <reviewCount>3</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2012-10-12T04:00:06.06</lastUpdated>
+  </sets>
+  <sets>
+    <setID>4489</setID>
+    <number>8847</number>
+    <numberVariant>1</numberVariant>
+    <name>Dragster</name>
+    <year>1983</year>
+    <theme>Technic</theme>
+    <themeGroup>Technical</themeGroup>
+    <subtheme />
+    <pieces>250</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>8847-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_8847-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/8847-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/8847-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/8847-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>190</ownedByTotal>
+    <wantedByTotal>133</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.5</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2012-10-12T04:00:15.607</lastUpdated>
+  </sets>
+</ArrayOfSets>

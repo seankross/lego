@@ -1,0 +1,1508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://brickset.com/api/">
+  <sets>
+    <setID>5267</setID>
+    <number>125</number>
+    <numberVariant>2</numberVariant>
+    <name>Universal Building Set</name>
+    <year>1974</year>
+    <theme>Universal Building Set</theme>
+    <themeGroup>Basic</themeGroup>
+    <subtheme />
+    <pieces />
+    <minifigs />
+    <image>true</image>
+    <imageFilename>125-2</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_125-2_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/125-2.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/125-2.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/125-2</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>25</ownedByTotal>
+    <wantedByTotal>31</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2013-01-21T08:02:50.157</lastUpdated>
+  </sets>
+  <sets>
+    <setID>5243</setID>
+    <number>145</number>
+    <numberVariant>1</numberVariant>
+    <name>Universal Building Set</name>
+    <year>1974</year>
+    <theme>Universal Building Set</theme>
+    <themeGroup>Basic</themeGroup>
+    <subtheme />
+    <pieces>338</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>145-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_145-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/145-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/145-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/145-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>43</ownedByTotal>
+    <wantedByTotal>39</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2005-12-15T23:56:59</lastUpdated>
+  </sets>
+  <sets>
+    <setID>5270</setID>
+    <number>196</number>
+    <numberVariant>1</numberVariant>
+    <name>Antique Car</name>
+    <year>1974</year>
+    <theme>Building Set with People</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>115</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>196-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_196-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/196-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/196-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/196-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>83</ownedByTotal>
+    <wantedByTotal>56</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-11-29T16:55:38.213</lastUpdated>
+  </sets>
+  <sets>
+    <setID>5108</setID>
+    <number>200</number>
+    <numberVariant>1</numberVariant>
+    <name>LEGO Family</name>
+    <year>1974</year>
+    <theme>Building Set with People</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>78</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>200-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_200-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/200-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/200-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/200-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>464</ownedByTotal>
+    <wantedByTotal>54</wantedByTotal>
+    <UKRetailPrice>1.25</UKRetailPrice>
+    <USRetailPrice>5</USRetailPrice>
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.875</rating>
+    <reviewCount>3</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2007-04-24T18:04:47</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7962</setID>
+    <number>243</number>
+    <numberVariant>1</numberVariant>
+    <name>Mach Mehr aus LEGO</name>
+    <year>1974</year>
+    <theme>Gear</theme>
+    <themeGroup>Miscellaneous</themeGroup>
+    <subtheme>Books/Miscellaneous</subtheme>
+    <pieces />
+    <minifigs />
+    <image>false</image>
+    <bricksetURL>http://brickset.com/sets/243-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>6</ownedByTotal>
+    <wantedByTotal>26</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:29.45</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7964</setID>
+    <number>250</number>
+    <numberVariant>3</numberVariant>
+    <name>Aeroplane and pilot</name>
+    <year>1974</year>
+    <theme>Building Set with People</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>90</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>250-3</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_250-3_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/250-3.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/250-3.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/250-3</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>71</ownedByTotal>
+    <wantedByTotal>34</wantedByTotal>
+    <UKRetailPrice>1.4</UKRetailPrice>
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:31.187</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7965</setID>
+    <number>251</number>
+    <numberVariant>1</numberVariant>
+    <name>Windmill with miller and wife</name>
+    <year>1974</year>
+    <theme>Building Set with People</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>92</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>251-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_251-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/251-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/251-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/251-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>30</ownedByTotal>
+    <wantedByTotal>34</wantedByTotal>
+    <UKRetailPrice>1.85</UKRetailPrice>
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:32.53</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7966</setID>
+    <number>252</number>
+    <numberVariant>1</numberVariant>
+    <name>Locomotive with driver and passenger</name>
+    <year>1974</year>
+    <theme>Building Set with People</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>121</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>252-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_252-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/252-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/252-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/252-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>52</ownedByTotal>
+    <wantedByTotal>34</wantedByTotal>
+    <UKRetailPrice>2.4</UKRetailPrice>
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:33.39</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7967</setID>
+    <number>263</number>
+    <numberVariant>1</numberVariant>
+    <name>Kitchen</name>
+    <year>1974</year>
+    <theme>Homemaker</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>257</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>263-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_263-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/263-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/263-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/263-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>110</ownedByTotal>
+    <wantedByTotal>57</wantedByTotal>
+    <UKRetailPrice>2.45</UKRetailPrice>
+    <USRetailPrice>9</USRetailPrice>
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:34.687</lastUpdated>
+  </sets>
+  <sets>
+    <setID>6728</setID>
+    <number>264</number>
+    <numberVariant>1</numberVariant>
+    <name>Living Room</name>
+    <year>1974</year>
+    <theme>Homemaker</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>242</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>264-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_264-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/264-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/264-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/264-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>106</ownedByTotal>
+    <wantedByTotal>66</wantedByTotal>
+    <UKRetailPrice>2.45</UKRetailPrice>
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2008-08-02T19:41:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>1000</setID>
+    <number>265</number>
+    <numberVariant>1</numberVariant>
+    <name>Bathroom</name>
+    <year>1974</year>
+    <theme>Homemaker</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>147</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>265-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_265-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/265-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/265-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/265-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>125</ownedByTotal>
+    <wantedByTotal>63</wantedByTotal>
+    <UKRetailPrice>1.85</UKRetailPrice>
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:36.17</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7968</setID>
+    <number>266</number>
+    <numberVariant>1</numberVariant>
+    <name>Children's room</name>
+    <year>1974</year>
+    <theme>Homemaker</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>235</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>266-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_266-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/266-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/266-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/266-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>60</ownedByTotal>
+    <wantedByTotal>49</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:37.373</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7969</setID>
+    <number>274</number>
+    <numberVariant>1</numberVariant>
+    <name>Colour TV and chair</name>
+    <year>1974</year>
+    <theme>Homemaker</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>68</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>274-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_274-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/274-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/274-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/274-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>93</ownedByTotal>
+    <wantedByTotal>64</wantedByTotal>
+    <UKRetailPrice>0.5</UKRetailPrice>
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:38.047</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7970</setID>
+    <number>275</number>
+    <numberVariant>1</numberVariant>
+    <name>Table and chairs</name>
+    <year>1974</year>
+    <theme>Homemaker</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>92</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>275-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_275-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/275-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/275-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/275-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>71</ownedByTotal>
+    <wantedByTotal>50</wantedByTotal>
+    <UKRetailPrice>0.5</UKRetailPrice>
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:38.593</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7971</setID>
+    <number>294</number>
+    <numberVariant>1</numberVariant>
+    <name>Wall unit</name>
+    <year>1974</year>
+    <theme>Homemaker</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>63</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>294-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_294-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/294-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/294-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/294-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>63</ownedByTotal>
+    <wantedByTotal>61</wantedByTotal>
+    <UKRetailPrice>0.85</UKRetailPrice>
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:39.873</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7972</setID>
+    <number>295</number>
+    <numberVariant>1</numberVariant>
+    <name>Secretary's desk</name>
+    <year>1974</year>
+    <theme>Homemaker</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>128</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>295-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_295-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/295-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/295-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/295-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>109</ownedByTotal>
+    <wantedByTotal>71</wantedByTotal>
+    <UKRetailPrice>0.85</UKRetailPrice>
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:40.467</lastUpdated>
+  </sets>
+  <sets>
+    <setID>5102</setID>
+    <number>360</number>
+    <numberVariant>1</numberVariant>
+    <name>Gravel Works</name>
+    <year>1974</year>
+    <theme>LEGOLAND</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>211</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>360-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_360-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/360-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/360-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/360-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>166</ownedByTotal>
+    <wantedByTotal>83</wantedByTotal>
+    <UKRetailPrice>4.55</UKRetailPrice>
+    <USRetailPrice>14</USRetailPrice>
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>4.16666666666667</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:41.45</lastUpdated>
+  </sets>
+  <sets>
+    <setID>1677</setID>
+    <number>361</number>
+    <numberVariant>1</numberVariant>
+    <name>Tea Garden Cafe</name>
+    <year>1974</year>
+    <theme>LEGOLAND</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme>Town</subtheme>
+    <pieces>209</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>361-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_361-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/361-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/361-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/361-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>173</ownedByTotal>
+    <wantedByTotal>100</wantedByTotal>
+    <UKRetailPrice>2.45</UKRetailPrice>
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>4.5</rating>
+    <reviewCount>6</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2004-06-29T13:20:12</lastUpdated>
+  </sets>
+  <sets>
+    <setID>5101</setID>
+    <number>612</number>
+    <numberVariant>1</numberVariant>
+    <name>Tipper Truck</name>
+    <year>1974</year>
+    <theme>LEGOLAND</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>23</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>612-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_612-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/612-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/612-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/612-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>410</ownedByTotal>
+    <wantedByTotal>57</wantedByTotal>
+    <UKRetailPrice>0.38</UKRetailPrice>
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.75</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:43.967</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3074</setID>
+    <number>613</number>
+    <numberVariant>1</numberVariant>
+    <name>Bi-plane</name>
+    <year>1974</year>
+    <theme>LEGOLAND</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme>Town</subtheme>
+    <pieces>18</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>613-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_613-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/613-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/613-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/613-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>273</ownedByTotal>
+    <wantedByTotal>67</wantedByTotal>
+    <UKRetailPrice>0.38</UKRetailPrice>
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>4.16666666666667</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2004-04-21T04:58:23</lastUpdated>
+  </sets>
+  <sets>
+    <setID>6328</setID>
+    <number>614</number>
+    <numberVariant>2</numberVariant>
+    <name>Digger</name>
+    <year>1974</year>
+    <theme>LEGOLAND</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>31</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>614-2</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_614-2_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/614-2.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/614-2.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/614-2</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>294</ownedByTotal>
+    <wantedByTotal>62</wantedByTotal>
+    <UKRetailPrice>0.38</UKRetailPrice>
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.25</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2007-11-10T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>6332</setID>
+    <number>656</number>
+    <numberVariant>1</numberVariant>
+    <name>Car and Caravan</name>
+    <year>1974</year>
+    <theme>LEGOLAND</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>52</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>656-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_656-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/656-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/656-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/656-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>247</ownedByTotal>
+    <wantedByTotal>87</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.25</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2007-11-10T13:40:03</lastUpdated>
+  </sets>
+  <sets>
+    <setID>6333</setID>
+    <number>657</number>
+    <numberVariant>1</numberVariant>
+    <name>Aircraft</name>
+    <year>1974</year>
+    <theme>LEGOLAND</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>37</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>657-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_657-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/657-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/657-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/657-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>193</ownedByTotal>
+    <wantedByTotal>69</wantedByTotal>
+    <UKRetailPrice>0.65</UKRetailPrice>
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2007-11-10T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7894</setID>
+    <number>658</number>
+    <numberVariant>1</numberVariant>
+    <name>Fire Engine</name>
+    <year>1974</year>
+    <theme>LEGOLAND</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme>Vehicle</subtheme>
+    <pieces>38</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>658-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_658-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/658-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/658-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/658-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>131</ownedByTotal>
+    <wantedByTotal>56</wantedByTotal>
+    <UKRetailPrice>0.65</UKRetailPrice>
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>1</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-02-19T09:50:52.467</lastUpdated>
+  </sets>
+  <sets>
+    <setID>6336</setID>
+    <number>689</number>
+    <numberVariant>1</numberVariant>
+    <name>Grabber</name>
+    <year>1974</year>
+    <theme>LEGOLAND</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>46</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>689-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_689-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/689-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/689-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/689-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>193</ownedByTotal>
+    <wantedByTotal>56</wantedByTotal>
+    <UKRetailPrice>0.98</UKRetailPrice>
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2007-11-10T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>6337</setID>
+    <number>690</number>
+    <numberVariant>1</numberVariant>
+    <name>Shell Garage</name>
+    <year>1974</year>
+    <theme>LEGOLAND</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>73</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>690-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_690-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/690-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/690-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/690-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>229</ownedByTotal>
+    <wantedByTotal>87</wantedByTotal>
+    <UKRetailPrice>0.98</UKRetailPrice>
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2007-11-10T13:41:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7929</setID>
+    <number>691</number>
+    <numberVariant>1</numberVariant>
+    <name>Rescue Helicopter</name>
+    <year>1974</year>
+    <theme>LEGOLAND</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme>Town</subtheme>
+    <pieces>62</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>691-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_691-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/691-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/691-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/691-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>173</ownedByTotal>
+    <wantedByTotal>51</wantedByTotal>
+    <UKRetailPrice>0.98</UKRetailPrice>
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>4.16666666666667</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-03-11T00:03:39.403</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7981</setID>
+    <number>723</number>
+    <numberVariant>2</numberVariant>
+    <name>Diesel Locomotive with DB sticker</name>
+    <year>1974</year>
+    <theme>Trains</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>4.5/12 V</subtheme>
+    <pieces>98</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>723-2</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_723-2_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/723-2.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/723-2.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/723-2</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>32</ownedByTotal>
+    <wantedByTotal>49</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.25</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:48.187</lastUpdated>
+  </sets>
+  <sets>
+    <setID>6735</setID>
+    <number>725</number>
+    <numberVariant>2</numberVariant>
+    <name>Freight Train Set</name>
+    <year>1974</year>
+    <theme>Trains</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>4.5/12 V</subtheme>
+    <pieces>425</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>725-2</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_725-2_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/725-2.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/725-2.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/725-2</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>71</ownedByTotal>
+    <wantedByTotal>67</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:49.233</lastUpdated>
+  </sets>
+  <sets>
+    <setID>3916</setID>
+    <number>741</number>
+    <numberVariant>1</numberVariant>
+    <name>12 V Transformer</name>
+    <year>1974</year>
+    <theme>Trains</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>4.5/12 V</subtheme>
+    <pieces>1</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>741-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_741-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/741-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/741-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/741-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>128</ownedByTotal>
+    <wantedByTotal>55</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:50.2</lastUpdated>
+  </sets>
+  <sets>
+    <setID>6738</setID>
+    <number>755</number>
+    <numberVariant>1</numberVariant>
+    <name>Left and Right Points</name>
+    <year>1974</year>
+    <theme>Trains</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>4.5/12 V</subtheme>
+    <pieces>12</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>755-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_755-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/755-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/755-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/755-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>98</ownedByTotal>
+    <wantedByTotal>41</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:51.45</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7973</setID>
+    <number>756</number>
+    <numberVariant>1</numberVariant>
+    <name>Electric crossing</name>
+    <year>1974</year>
+    <theme>Trains</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>4.5/12 V</subtheme>
+    <pieces>5</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>756-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_756-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/756-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/756-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/756-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>85</ownedByTotal>
+    <wantedByTotal>33</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:51.937</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7974</setID>
+    <number>789</number>
+    <numberVariant>2</numberVariant>
+    <name>Suitcase, red</name>
+    <year>1974</year>
+    <theme>Gear</theme>
+    <themeGroup>Miscellaneous</themeGroup>
+    <subtheme>Storage</subtheme>
+    <pieces />
+    <minifigs />
+    <image>false</image>
+    <bricksetURL>http://brickset.com/sets/789-2</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>15</ownedByTotal>
+    <wantedByTotal>23</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7975</setID>
+    <number>790</number>
+    <numberVariant>1</numberVariant>
+    <name>Suitcase, blue</name>
+    <year>1974</year>
+    <theme>Gear</theme>
+    <themeGroup>Miscellaneous</themeGroup>
+    <subtheme>Storage</subtheme>
+    <pieces />
+    <minifigs />
+    <image>false</image>
+    <bricksetURL>http://brickset.com/sets/790-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>12</ownedByTotal>
+    <wantedByTotal>25</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7976</setID>
+    <number>810</number>
+    <numberVariant>3</numberVariant>
+    <name>Gear set</name>
+    <year>1974</year>
+    <theme>Universal Building Set</theme>
+    <themeGroup>Basic</themeGroup>
+    <subtheme>Gears</subtheme>
+    <pieces>114</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>810-3</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_810-3_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/810-3.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/810-3.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/810-3</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>34</ownedByTotal>
+    <wantedByTotal>29</wantedByTotal>
+    <UKRetailPrice>3.6</UKRetailPrice>
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:54.28</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7977</setID>
+    <number>811</number>
+    <numberVariant>2</numberVariant>
+    <name>Gear set</name>
+    <year>1974</year>
+    <theme>Universal Building Set</theme>
+    <themeGroup>Basic</themeGroup>
+    <subtheme>Gears</subtheme>
+    <pieces>177</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>811-2</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_811-2_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/811-2.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/811-2.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/811-2</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>32</ownedByTotal>
+    <wantedByTotal>30</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:54.843</lastUpdated>
+  </sets>
+  <sets>
+    <setID>6338</setID>
+    <number>812</number>
+    <numberVariant>2</numberVariant>
+    <name>Gear Set</name>
+    <year>1974</year>
+    <theme>Universal Building Set</theme>
+    <themeGroup>Basic</themeGroup>
+    <subtheme />
+    <pieces>60</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>812-2</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_812-2_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/812-2.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/812-2.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/812-2</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>89</ownedByTotal>
+    <wantedByTotal>48</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2014-01-20T17:47:48.58</lastUpdated>
+  </sets>
+  <sets>
+    <setID>6339</setID>
+    <number>813</number>
+    <numberVariant>2</numberVariant>
+    <name>Tractor</name>
+    <year>1974</year>
+    <theme>LEGOLAND</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>100</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>813-2</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_813-2_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/813-2.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/813-2.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/813-2</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>63</ownedByTotal>
+    <wantedByTotal>53</wantedByTotal>
+    <UKRetailPrice>2.55</UKRetailPrice>
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2007-11-10T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7946</setID>
+    <number>941</number>
+    <numberVariant>1</numberVariant>
+    <name>Black and Clear Bricks</name>
+    <year>1974</year>
+    <theme>Basic</theme>
+    <themeGroup>Basic</themeGroup>
+    <subtheme>Supplementaries</subtheme>
+    <pieces>48</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>941-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_941-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/941-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/941-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/941-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>12</ownedByTotal>
+    <wantedByTotal>22</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-04-02T15:02:57</lastUpdated>
+  </sets>
+  <sets>
+    <setID>7980</setID>
+    <number>1552</number>
+    <numberVariant>2</numberVariant>
+    <name>Sterling Boeing 727</name>
+    <year>1974</year>
+    <theme>LEGOLAND</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>49</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>1552-2</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1552-2_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1552-2.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/1552-2.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/1552-2</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>25</ownedByTotal>
+    <wantedByTotal>48</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>2.5</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+  </sets>
+  <sets>
+    <setID>485</setID>
+    <number>1650</number>
+    <numberVariant>1</numberVariant>
+    <name>Maersk Line Container Ship</name>
+    <year>1974</year>
+    <theme>LEGOLAND</theme>
+    <themeGroup>Vintage themes</themeGroup>
+    <subtheme />
+    <pieces>220</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>1650-1</imageFilename>
+    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1650-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1650-1.jpg</largeThumbnailURL>
+    <imageURL>http://www.1000steine.com/brickset/images/1650-1.jpg</imageURL>
+    <bricksetURL>http://brickset.com/sets/1650-1</bricksetURL>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>28</ownedByTotal>
+    <wantedByTotal>227</wantedByTotal>
+    <UKRetailPrice />
+    <USRetailPrice />
+    <CARetailPrice />
+    <EURetailPrice />
+    <rating>3.25</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>0</additionalImageCount>
+    <EAN />
+    <UPC />
+    <lastUpdated>2010-12-24T07:13:17.443</lastUpdated>
+  </sets>
+</ArrayOfSets>

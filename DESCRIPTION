@@ -1,7 +1,7 @@
 Package: lego
 Type: Package
 Title: Lego set data 1970-2014
-Version: 0.1
+Version: 0.1.1
 Date: 2014-08-21
 Authors@R: 'Sean Kross <smk240@gmail.com> [aut,cre]'
 Description: Data for every lego set produced from 1970 to 2014 including number
@@ -11,5 +11,6 @@ Depends:
 License: CC0
 LazyData: true
 Suggests:
-    dplyr
+    dplyr,
+    XML
 URL: http://github.com/seankross/lego
