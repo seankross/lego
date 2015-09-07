@@ -5,7 +5,7 @@
 
 dataString="apiKey=YOUR_API_KEY&userHash=&query=&theme=&subtheme=&setNumber=&owned=&wanted=&orderBy=&pageSize=2000&pageNumber=&userName=&year="
 
-for (( i = 1965; i <= 2014; i++ )); do
+for (( i = 1970; i <= 2015; i++ )); do
 	postData=$dataString$i
 	#echo $postData
 	curl --data $postData http://brickset.com/api/v2.asmx/getSets > $i.xml

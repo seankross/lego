@@ -13,21 +13,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>260-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_260-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/260-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/260-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_260-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/260-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/260-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/260-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1404</ownedByTotal>
-    <wantedByTotal>129</wantedByTotal>
+    <ownedByTotal>1662</ownedByTotal>
+    <wantedByTotal>149</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>4.25</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.27777777777778</rating>
+    <rating>4.5</rating>
     <reviewCount>8</reviewCount>
     <packagingType>{Not specified}</packagingType>
     <availability>Retail</availability>
@@ -50,21 +50,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>315-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_315-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/315-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/315-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_315-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/315-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/315-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/315-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>58</ownedByTotal>
+    <ownedByTotal>69</ownedByTotal>
     <wantedByTotal>26</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -87,21 +87,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>325-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_325-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/325-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/325-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_325-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/325-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/325-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/325-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>97</ownedByTotal>
+    <ownedByTotal>123</ownedByTotal>
     <wantedByTotal>25</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Box with handle</packagingType>
     <availability>Retail</availability>
@@ -124,21 +124,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>335-2</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_335-2_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/335-2.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/335-2.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_335-2_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/335-2.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/335-2.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/335-2</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>45</ownedByTotal>
+    <ownedByTotal>66</ownedByTotal>
     <wantedByTotal>25</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Box with handle</packagingType>
     <availability>Retail</availability>
@@ -157,7 +157,7 @@
     <theme>Basic</theme>
     <themeGroup>Basic</themeGroup>
     <subtheme />
-    <pieces>602</pieces>
+    <pieces>337</pieces>
     <minifigs>1</minifigs>
     <image>false</image>
     <bricksetURL>http://brickset.com/sets/365-2</bricksetURL>
@@ -165,13 +165,13 @@
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>45</ownedByTotal>
+    <ownedByTotal>59</ownedByTotal>
     <wantedByTotal>24</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Box with handle</packagingType>
     <availability>Retail</availability>
@@ -179,7 +179,7 @@
     <additionalImageCount>0</additionalImageCount>
     <EAN />
     <UPC />
-    <lastUpdated>2013-02-21T07:01:08.213</lastUpdated>
+    <lastUpdated>2015-07-24T14:52:38.98</lastUpdated>
   </sets>
   <sets>
     <setID>1837</setID>
@@ -194,21 +194,21 @@
     <minifigs>2</minifigs>
     <image>true</image>
     <imageFilename>385-2</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_385-2_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/385-2.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/385-2.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_385-2_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/385-2.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/385-2.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/385-2</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>44</ownedByTotal>
-    <wantedByTotal>26</wantedByTotal>
+    <ownedByTotal>60</ownedByTotal>
+    <wantedByTotal>25</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Box with handle</packagingType>
     <availability>Retail</availability>
@@ -231,21 +231,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>395-2</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_395-2_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/395-2.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/395-2.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_395-2_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/395-2.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/395-2.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/395-2</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>10</ownedByTotal>
+    <ownedByTotal>11</ownedByTotal>
     <wantedByTotal>22</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Box with handle</packagingType>
     <availability>Retail - limited</availability>
@@ -268,21 +268,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>515-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_515-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/515-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/515-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_515-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/515-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/515-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/515-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>220</ownedByTotal>
+    <ownedByTotal>272</ownedByTotal>
     <wantedByTotal>33</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.83333333333333</rating>
+    <rating>4.5</rating>
     <reviewCount>2</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -305,21 +305,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>525-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_525-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/525-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/525-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_525-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/525-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/525-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/525-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>253</ownedByTotal>
-    <wantedByTotal>34</wantedByTotal>
+    <ownedByTotal>320</ownedByTotal>
+    <wantedByTotal>37</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.375</rating>
+    <rating>5</rating>
     <reviewCount>3</reviewCount>
     <packagingType>Box with handle</packagingType>
     <availability>Retail</availability>
@@ -342,21 +342,21 @@
     <minifigs>2</minifigs>
     <image>true</image>
     <imageFilename>535-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_535-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/535-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/535-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_535-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/535-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/535-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/535-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>208</ownedByTotal>
-    <wantedByTotal>41</wantedByTotal>
+    <ownedByTotal>269</ownedByTotal>
+    <wantedByTotal>47</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.75</rating>
+    <rating>5</rating>
     <reviewCount>1</reviewCount>
     <packagingType>Box with handle</packagingType>
     <availability>Retail</availability>
@@ -379,21 +379,21 @@
     <minifigs>2</minifigs>
     <image>true</image>
     <imageFilename>545-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_545-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/545-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/545-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_545-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/545-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/545-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/545-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>233</ownedByTotal>
-    <wantedByTotal>32</wantedByTotal>
+    <ownedByTotal>300</ownedByTotal>
+    <wantedByTotal>39</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.83333333333333</rating>
+    <rating>4.5</rating>
     <reviewCount>2</reviewCount>
     <packagingType>Box with handle</packagingType>
     <availability>Retail</availability>
@@ -416,21 +416,21 @@
     <minifigs>2</minifigs>
     <image>true</image>
     <imageFilename>565-2</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_565-2_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/565-2.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/565-2.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_565-2_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/565-2.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/565-2.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/565-2</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>156</ownedByTotal>
-    <wantedByTotal>37</wantedByTotal>
+    <ownedByTotal>194</ownedByTotal>
+    <wantedByTotal>43</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.16666666666667</rating>
+    <rating>5</rating>
     <reviewCount>2</reviewCount>
     <packagingType>Box with handle</packagingType>
     <availability>Retail</availability>
@@ -453,21 +453,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>715-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_715-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/715-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/715-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_715-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/715-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/715-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/715-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>402</ownedByTotal>
-    <wantedByTotal>59</wantedByTotal>
+    <ownedByTotal>508</ownedByTotal>
+    <wantedByTotal>63</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.875</rating>
+    <rating>4.33333333333333</rating>
     <reviewCount>3</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -490,21 +490,21 @@
     <minifigs>2</minifigs>
     <image>true</image>
     <imageFilename>725-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_725-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/725-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/725-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_725-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/725-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/725-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/725-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>263</ownedByTotal>
-    <wantedByTotal>76</wantedByTotal>
+    <ownedByTotal>321</ownedByTotal>
+    <wantedByTotal>95</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.83333333333333</rating>
+    <rating>4.5</rating>
     <reviewCount>2</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -527,21 +527,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>735-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_735-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/735-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/735-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_735-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/735-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/735-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/735-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>189</ownedByTotal>
-    <wantedByTotal>70</wantedByTotal>
+    <ownedByTotal>252</ownedByTotal>
+    <wantedByTotal>86</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.75</rating>
+    <rating>5</rating>
     <reviewCount>1</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -564,21 +564,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>818-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_818-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/818-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/818-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_818-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/818-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/818-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/818-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>142</ownedByTotal>
-    <wantedByTotal>38</wantedByTotal>
+    <ownedByTotal>174</ownedByTotal>
+    <wantedByTotal>37</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>12.25</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -601,21 +601,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>821-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_821-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/821-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/821-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_821-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/821-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/821-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/821-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1384</ownedByTotal>
-    <wantedByTotal>81</wantedByTotal>
+    <ownedByTotal>1460</ownedByTotal>
+    <wantedByTotal>83</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>2.25</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.7</rating>
+    <rating>4.79166666666667</rating>
     <reviewCount>24</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>Retail</availability>
@@ -642,13 +642,13 @@
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>2</ownedByTotal>
+    <ownedByTotal>3</ownedByTotal>
     <wantedByTotal>6</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Promotional</availability>
@@ -671,21 +671,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>1559-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1559-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1559-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1559-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1559-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1559-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1559-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1559-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>16</ownedByTotal>
-    <wantedByTotal>13</wantedByTotal>
+    <ownedByTotal>17</ownedByTotal>
+    <wantedByTotal>12</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>Promotional</availability>
@@ -708,21 +708,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>1560-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1560-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1560-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1560-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1560-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1560-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1560-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1560-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>305</ownedByTotal>
-    <wantedByTotal>126</wantedByTotal>
+    <ownedByTotal>397</ownedByTotal>
+    <wantedByTotal>152</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.125</rating>
+    <rating>2</rating>
     <reviewCount>3</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>Promotional</availability>
@@ -745,21 +745,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>1561-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1561-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1561-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1561-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1561-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1561-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1561-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1561-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>274</ownedByTotal>
-    <wantedByTotal>119</wantedByTotal>
+    <ownedByTotal>357</ownedByTotal>
+    <wantedByTotal>142</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.375</rating>
+    <rating>3.66666666666667</rating>
     <reviewCount>3</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>Promotional</availability>
@@ -782,21 +782,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>1562-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1562-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1562-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1562-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1562-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1562-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1562-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1562-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>342</ownedByTotal>
-    <wantedByTotal>132</wantedByTotal>
+    <ownedByTotal>451</ownedByTotal>
+    <wantedByTotal>163</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.75</rating>
+    <rating>3</rating>
     <reviewCount>1</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>Promotional</availability>
@@ -819,21 +819,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>1563-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1563-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1563-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1563-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1563-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1563-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1563-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1563-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>274</ownedByTotal>
-    <wantedByTotal>123</wantedByTotal>
+    <ownedByTotal>349</ownedByTotal>
+    <wantedByTotal>155</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.125</rating>
+    <rating>3.33333333333333</rating>
     <reviewCount>3</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>Promotional</availability>
@@ -856,21 +856,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>1581-2</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1581-2_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1581-2.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1581-2.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1581-2_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1581-2.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1581-2.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1581-2</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>58</ownedByTotal>
-    <wantedByTotal>451</wantedByTotal>
+    <ownedByTotal>71</ownedByTotal>
+    <wantedByTotal>524</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.375</rating>
+    <rating>5</rating>
     <reviewCount>3</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Promotional</availability>
@@ -893,21 +893,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>1630-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1630-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1630-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1630-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1630-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1630-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1630-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1630-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>499</ownedByTotal>
-    <wantedByTotal>135</wantedByTotal>
+    <ownedByTotal>593</ownedByTotal>
+    <wantedByTotal>161</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.91666666666667</rating>
+    <rating>3</rating>
     <reviewCount>5</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail - limited</availability>
@@ -930,21 +930,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>1631-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1631-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1631-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1631-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1631-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1631-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1631-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1631-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>718</ownedByTotal>
-    <wantedByTotal>176</wantedByTotal>
+    <ownedByTotal>864</ownedByTotal>
+    <wantedByTotal>210</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.41666666666667</rating>
+    <rating>3.6</rating>
     <reviewCount>5</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail - limited</availability>
@@ -967,21 +967,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>1632-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1632-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1632-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1632-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1632-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1632-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1632-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1632-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>842</ownedByTotal>
-    <wantedByTotal>228</wantedByTotal>
+    <ownedByTotal>1004</ownedByTotal>
+    <wantedByTotal>269</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.625</rating>
+    <rating>4</rating>
     <reviewCount>3</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail - limited</availability>
@@ -1004,21 +1004,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>1633-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1633-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1633-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1633-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1633-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1633-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1633-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1633-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>529</ownedByTotal>
-    <wantedByTotal>171</wantedByTotal>
+    <ownedByTotal>652</ownedByTotal>
+    <wantedByTotal>196</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.75</rating>
+    <rating>3</rating>
     <reviewCount>1</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail - limited</availability>
@@ -1041,21 +1041,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>1636-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1636-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1636-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1636-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1636-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1636-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1636-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1636-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>31</ownedByTotal>
-    <wantedByTotal>22</wantedByTotal>
+    <ownedByTotal>36</ownedByTotal>
+    <wantedByTotal>21</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Bucket</packagingType>
     <availability>Retail - limited</availability>
@@ -1082,13 +1082,13 @@
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>23</ownedByTotal>
-    <wantedByTotal>22</wantedByTotal>
+    <ownedByTotal>26</ownedByTotal>
+    <wantedByTotal>20</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.75</rating>
+    <rating>5</rating>
     <reviewCount>1</reviewCount>
     <packagingType>Bucket</packagingType>
     <availability>Retail</availability>
@@ -1111,21 +1111,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>1638-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1638-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1638-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1638-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1638-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1638-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1638-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1638-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>34</ownedByTotal>
-    <wantedByTotal>29</wantedByTotal>
+    <ownedByTotal>44</ownedByTotal>
+    <wantedByTotal>27</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Bucket</packagingType>
     <availability>Retail - limited</availability>
@@ -1152,13 +1152,13 @@
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>4</ownedByTotal>
+    <ownedByTotal>8</ownedByTotal>
     <wantedByTotal>9</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Bucket</packagingType>
     <availability>Retail - limited</availability>
@@ -1181,21 +1181,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>1657-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1657-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1657-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1657-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1657-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1657-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1657-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1657-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>11</ownedByTotal>
+    <ownedByTotal>18</ownedByTotal>
     <wantedByTotal>11</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>{Not specified}</packagingType>
     <availability>{Not specified}</availability>
@@ -1218,21 +1218,21 @@
     <minifigs>3</minifigs>
     <image>true</image>
     <imageFilename>1665-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1665-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1665-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1665-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1665-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1665-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1665-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1665-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>222</ownedByTotal>
-    <wantedByTotal>193</wantedByTotal>
+    <ownedByTotal>256</ownedByTotal>
+    <wantedByTotal>222</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>8.75</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.25</rating>
+    <rating>4</rating>
     <reviewCount>1</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail - limited</availability>
@@ -1255,21 +1255,21 @@
     <minifigs>2</minifigs>
     <image>true</image>
     <imageFilename>1672-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1672-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1672-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1672-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1672-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1672-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1672-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1672-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>6</ownedByTotal>
-    <wantedByTotal>10</wantedByTotal>
+    <ownedByTotal>8</ownedByTotal>
+    <wantedByTotal>8</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>{Not specified}</packagingType>
     <availability>{Not specified}</availability>
@@ -1296,13 +1296,13 @@
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1</ownedByTotal>
-    <wantedByTotal>6</wantedByTotal>
+    <ownedByTotal>2</ownedByTotal>
+    <wantedByTotal>5</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Bucket</packagingType>
     <availability>{Not specified}</availability>
@@ -1325,21 +1325,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>1675-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1675-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1675-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1675-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1675-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1675-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1675-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1675-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>103</ownedByTotal>
-    <wantedByTotal>93</wantedByTotal>
+    <ownedByTotal>118</ownedByTotal>
+    <wantedByTotal>101</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>10</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.25</rating>
+    <rating>4</rating>
     <reviewCount>1</reviewCount>
     <packagingType>Box with backing card</packagingType>
     <availability>Retail - limited</availability>
@@ -1362,21 +1362,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>1676-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1676-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1676-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1676-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1676-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1676-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1676-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1676-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>39</ownedByTotal>
-    <wantedByTotal>25</wantedByTotal>
+    <ownedByTotal>50</ownedByTotal>
+    <wantedByTotal>23</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -1399,21 +1399,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>1677-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1677-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1677-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1677-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1677-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1677-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1677-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1677-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>168</ownedByTotal>
-    <wantedByTotal>38</wantedByTotal>
+    <ownedByTotal>215</ownedByTotal>
+    <wantedByTotal>42</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.75</rating>
+    <rating>3</rating>
     <reviewCount>1</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>Promotional</availability>
@@ -1436,21 +1436,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>1679-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1679-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1679-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1679-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1679-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1679-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1679-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1679-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>41</ownedByTotal>
-    <wantedByTotal>28</wantedByTotal>
+    <ownedByTotal>46</ownedByTotal>
+    <wantedByTotal>27</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -1473,21 +1473,21 @@
     <minifigs>3</minifigs>
     <image>true</image>
     <imageFilename>1680-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1680-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1680-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1680-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1680-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1680-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1680-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1680-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>316</ownedByTotal>
-    <wantedByTotal>582</wantedByTotal>
+    <ownedByTotal>369</ownedByTotal>
+    <wantedByTotal>696</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.875</rating>
+    <rating>4.33333333333333</rating>
     <reviewCount>3</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Unknown</availability>
@@ -1510,21 +1510,21 @@
     <minifigs>3</minifigs>
     <image>true</image>
     <imageFilename>1682-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1682-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1682-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1682-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1682-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1682-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1682-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1682-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1093</ownedByTotal>
-    <wantedByTotal>676</wantedByTotal>
+    <ownedByTotal>1329</ownedByTotal>
+    <wantedByTotal>798</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.40909090909091</rating>
+    <rating>4.6</rating>
     <reviewCount>10</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail - limited</availability>
@@ -1551,13 +1551,13 @@
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>10</ownedByTotal>
-    <wantedByTotal>11</wantedByTotal>
+    <ownedByTotal>11</ownedByTotal>
+    <wantedByTotal>9</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>{Not specified}</packagingType>
     <availability>{Not specified}</availability>
@@ -1584,13 +1584,13 @@
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>0</ownedByTotal>
-    <wantedByTotal>5</wantedByTotal>
+    <ownedByTotal>1</ownedByTotal>
+    <wantedByTotal>4</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Tub</packagingType>
     <availability>{Not specified}</availability>
@@ -1613,21 +1613,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>1690-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1690-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1690-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1690-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1690-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1690-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1690-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1690-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>16</ownedByTotal>
-    <wantedByTotal>72</wantedByTotal>
+    <ownedByTotal>17</ownedByTotal>
+    <wantedByTotal>79</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.25</rating>
+    <rating>4</rating>
     <reviewCount>1</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Promotional</availability>
@@ -1655,12 +1655,12 @@
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
     <ownedByTotal>3</ownedByTotal>
-    <wantedByTotal>21</wantedByTotal>
+    <wantedByTotal>28</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Promotional</availability>
@@ -1687,13 +1687,13 @@
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>5</ownedByTotal>
-    <wantedByTotal>25</wantedByTotal>
+    <ownedByTotal>7</ownedByTotal>
+    <wantedByTotal>31</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Promotional</availability>
@@ -1716,21 +1716,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>1875-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1875-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1875-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1875-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1875-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1875-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1875-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1875-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>506</ownedByTotal>
-    <wantedByTotal>397</wantedByTotal>
+    <ownedByTotal>618</ownedByTotal>
+    <wantedByTotal>469</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.9</rating>
+    <rating>4.25</rating>
     <reviewCount>4</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail - limited</availability>
@@ -1753,21 +1753,21 @@
     <minifigs>2</minifigs>
     <image>true</image>
     <imageFilename>1876-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1876-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1876-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1876-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1876-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1876-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1876-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1876-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>421</ownedByTotal>
-    <wantedByTotal>245</wantedByTotal>
+    <ownedByTotal>497</ownedByTotal>
+    <wantedByTotal>295</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.83333333333333</rating>
+    <rating>4.5</rating>
     <reviewCount>2</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail - limited</availability>
@@ -1790,21 +1790,21 @@
     <minifigs>2</minifigs>
     <image>true</image>
     <imageFilename>1877-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1877-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1877-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1877-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1877-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1877-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1877-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1877-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>547</ownedByTotal>
-    <wantedByTotal>533</wantedByTotal>
+    <ownedByTotal>635</ownedByTotal>
+    <wantedByTotal>630</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.25</rating>
+    <rating>4.6</rating>
     <reviewCount>5</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail - limited</availability>
@@ -1827,21 +1827,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>1883-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1883-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1883-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1883-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1883-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1883-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1883-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1883-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>16</ownedByTotal>
-    <wantedByTotal>11</wantedByTotal>
+    <ownedByTotal>21</ownedByTotal>
+    <wantedByTotal>12</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -1864,21 +1864,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>1998-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_1998-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/1998-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/1998-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_1998-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/1998-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/1998-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/1998-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>30</ownedByTotal>
-    <wantedByTotal>120</wantedByTotal>
+    <ownedByTotal>33</ownedByTotal>
+    <wantedByTotal>142</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.25</rating>
+    <rating>4</rating>
     <reviewCount>1</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Promotional</availability>
@@ -1905,13 +1905,13 @@
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>2</ownedByTotal>
-    <wantedByTotal>7</wantedByTotal>
+    <ownedByTotal>3</ownedByTotal>
+    <wantedByTotal>8</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -1938,13 +1938,13 @@
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1</ownedByTotal>
-    <wantedByTotal>9</wantedByTotal>
+    <ownedByTotal>2</ownedByTotal>
+    <wantedByTotal>10</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -1971,13 +1971,13 @@
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>2</ownedByTotal>
-    <wantedByTotal>7</wantedByTotal>
+    <ownedByTotal>4</ownedByTotal>
+    <wantedByTotal>9</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -2004,13 +2004,13 @@
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1</ownedByTotal>
-    <wantedByTotal>7</wantedByTotal>
+    <ownedByTotal>2</ownedByTotal>
+    <wantedByTotal>8</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail - limited</availability>
@@ -2033,21 +2033,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>2458-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_2458-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/2458-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/2458-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_2458-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/2458-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/2458-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/2458-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>7</ownedByTotal>
-    <wantedByTotal>13</wantedByTotal>
+    <ownedByTotal>12</ownedByTotal>
+    <wantedByTotal>12</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>{Not specified}</packagingType>
     <availability>{Not specified}</availability>
@@ -2074,13 +2074,13 @@
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>2</ownedByTotal>
+    <ownedByTotal>3</ownedByTotal>
     <wantedByTotal>6</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail - limited</availability>
@@ -2103,21 +2103,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>2609-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_2609-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/2609-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/2609-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_2609-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/2609-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/2609-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/2609-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>51</ownedByTotal>
-    <wantedByTotal>13</wantedByTotal>
+    <ownedByTotal>76</ownedByTotal>
+    <wantedByTotal>12</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>{Not specified}</packagingType>
     <availability>{Not specified}</availability>
@@ -2140,21 +2140,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>2613-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_2613-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/2613-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/2613-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_2613-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/2613-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/2613-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/2613-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>37</ownedByTotal>
+    <ownedByTotal>70</ownedByTotal>
     <wantedByTotal>15</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>6.5</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>{Not specified}</packagingType>
     <availability>{Not specified}</availability>
@@ -2177,21 +2177,21 @@
     <minifigs>2</minifigs>
     <image>true</image>
     <imageFilename>2615-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_2615-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/2615-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/2615-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_2615-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/2615-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/2615-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/2615-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>37</ownedByTotal>
-    <wantedByTotal>13</wantedByTotal>
+    <ownedByTotal>53</ownedByTotal>
+    <wantedByTotal>12</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>{Not specified}</packagingType>
     <availability>{Not specified}</availability>
@@ -2218,13 +2218,13 @@
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>23</ownedByTotal>
-    <wantedByTotal>16</wantedByTotal>
+    <ownedByTotal>30</ownedByTotal>
+    <wantedByTotal>15</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>{Not specified}</packagingType>
     <availability>{Not specified}</availability>
@@ -2247,21 +2247,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>2661-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_2661-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/2661-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/2661-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_2661-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/2661-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/2661-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/2661-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>34</ownedByTotal>
-    <wantedByTotal>12</wantedByTotal>
+    <ownedByTotal>60</ownedByTotal>
+    <wantedByTotal>15</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>{Not specified}</packagingType>
     <availability>{Not specified}</availability>
@@ -2284,21 +2284,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>2662-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_2662-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/2662-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/2662-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_2662-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/2662-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/2662-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/2662-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>31</ownedByTotal>
-    <wantedByTotal>12</wantedByTotal>
+    <ownedByTotal>49</ownedByTotal>
+    <wantedByTotal>14</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>{Not specified}</packagingType>
     <availability>{Not specified}</availability>
@@ -2321,21 +2321,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>2664-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_2664-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/2664-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/2664-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_2664-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/2664-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/2664-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/2664-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>25</ownedByTotal>
-    <wantedByTotal>12</wantedByTotal>
+    <ownedByTotal>38</ownedByTotal>
+    <wantedByTotal>14</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>{Not specified}</packagingType>
     <availability>{Not specified}</availability>
@@ -2362,13 +2362,13 @@
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>11</ownedByTotal>
-    <wantedByTotal>12</wantedByTotal>
+    <ownedByTotal>16</ownedByTotal>
+    <wantedByTotal>16</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>35.25</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>{Not specified}</packagingType>
     <availability>{Not specified}</availability>
@@ -2391,21 +2391,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>2668-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_2668-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/2668-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/2668-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_2668-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/2668-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/2668-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/2668-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>19</ownedByTotal>
-    <wantedByTotal>12</wantedByTotal>
+    <ownedByTotal>30</ownedByTotal>
+    <wantedByTotal>19</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>{Not specified}</packagingType>
     <availability>{Not specified}</availability>
@@ -2432,13 +2432,13 @@
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>10</ownedByTotal>
-    <wantedByTotal>13</wantedByTotal>
+    <ownedByTotal>19</ownedByTotal>
+    <wantedByTotal>16</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>74</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>{Not specified}</packagingType>
     <availability>{Not specified}</availability>
@@ -2461,22 +2461,22 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5008-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5008-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5008-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5008-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5008-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5008-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5008-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5008-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>381</ownedByTotal>
-    <wantedByTotal>35</wantedByTotal>
+    <ownedByTotal>436</ownedByTotal>
+    <wantedByTotal>36</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.125</rating>
-    <reviewCount>3</reviewCount>
+    <rating>4.75</rating>
+    <reviewCount>4</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>LEGO exclusive</availability>
     <instructionsCount>0</instructionsCount>
@@ -2498,21 +2498,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5009-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5009-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5009-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5009-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5009-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5009-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5009-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5009-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>17</ownedByTotal>
-    <wantedByTotal>24</wantedByTotal>
+    <ownedByTotal>22</ownedByTotal>
+    <wantedByTotal>28</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>LEGO exclusive</availability>
@@ -2535,21 +2535,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5010-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5010-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5010-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5010-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5010-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5010-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5010-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5010-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>48</ownedByTotal>
-    <wantedByTotal>30</wantedByTotal>
+    <ownedByTotal>66</ownedByTotal>
+    <wantedByTotal>34</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>LEGO exclusive</availability>
@@ -2572,21 +2572,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5076-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5076-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5076-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5076-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5076-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5076-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5076-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5076-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>11</ownedByTotal>
-    <wantedByTotal>21</wantedByTotal>
+    <ownedByTotal>15</ownedByTotal>
+    <wantedByTotal>22</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>LEGO exclusive</availability>
@@ -2609,21 +2609,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5110-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5110-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5110-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5110-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5110-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5110-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5110-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5110-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>13</ownedByTotal>
-    <wantedByTotal>25</wantedByTotal>
+    <ownedByTotal>17</ownedByTotal>
+    <wantedByTotal>26</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>10.75</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>LEGO exclusive</availability>
@@ -2646,21 +2646,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5111-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5111-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5111-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5111-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5111-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5111-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5111-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5111-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>27</ownedByTotal>
+    <ownedByTotal>30</ownedByTotal>
     <wantedByTotal>22</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>4</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>LEGO exclusive</availability>
@@ -2683,21 +2683,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5112-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5112-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5112-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5112-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5112-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5112-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5112-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5112-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>13</ownedByTotal>
-    <wantedByTotal>31</wantedByTotal>
+    <ownedByTotal>18</ownedByTotal>
+    <wantedByTotal>38</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>LEGO exclusive</availability>
@@ -2720,21 +2720,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5113-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5113-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5113-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5113-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5113-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5113-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5113-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5113-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>19</ownedByTotal>
-    <wantedByTotal>26</wantedByTotal>
+    <ownedByTotal>24</ownedByTotal>
+    <wantedByTotal>27</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>LEGO exclusive</availability>
@@ -2757,21 +2757,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5150-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5150-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5150-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5150-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5150-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5150-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5150-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5150-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>41</ownedByTotal>
-    <wantedByTotal>64</wantedByTotal>
+    <ownedByTotal>48</ownedByTotal>
+    <wantedByTotal>83</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>3.25</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.75</rating>
+    <rating>3</rating>
     <reviewCount>1</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>LEGO exclusive</availability>
@@ -2794,21 +2794,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5185-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5185-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5185-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5185-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5185-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5185-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5185-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5185-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>29</ownedByTotal>
-    <wantedByTotal>43</wantedByTotal>
+    <ownedByTotal>34</ownedByTotal>
+    <wantedByTotal>51</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>LEGO exclusive</availability>
@@ -2831,21 +2831,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5191-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5191-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5191-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5191-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5191-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5191-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5191-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5191-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>15</ownedByTotal>
-    <wantedByTotal>20</wantedByTotal>
+    <ownedByTotal>20</ownedByTotal>
+    <wantedByTotal>21</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>LEGO exclusive</availability>
@@ -2868,21 +2868,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5199-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5199-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5199-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5199-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5199-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5199-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5199-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5199-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>23</ownedByTotal>
-    <wantedByTotal>33</wantedByTotal>
+    <ownedByTotal>28</ownedByTotal>
+    <wantedByTotal>34</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>LEGO exclusive</availability>
@@ -2905,21 +2905,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5255-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5255-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5255-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5255-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5255-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5255-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5255-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5255-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>12</ownedByTotal>
-    <wantedByTotal>25</wantedByTotal>
+    <ownedByTotal>17</ownedByTotal>
+    <wantedByTotal>26</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>LEGO exclusive</availability>
@@ -2942,21 +2942,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5257-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5257-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5257-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5257-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5257-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5257-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5257-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5257-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>14</ownedByTotal>
-    <wantedByTotal>30</wantedByTotal>
+    <ownedByTotal>18</ownedByTotal>
+    <wantedByTotal>32</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>LEGO exclusive</availability>
@@ -2979,21 +2979,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5258-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5258-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5258-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5258-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5258-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5258-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5258-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5258-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>14</ownedByTotal>
-    <wantedByTotal>28</wantedByTotal>
+    <ownedByTotal>19</ownedByTotal>
+    <wantedByTotal>31</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>LEGO exclusive</availability>
@@ -3016,21 +3016,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5259-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5259-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5259-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5259-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5259-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5259-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5259-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5259-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>12</ownedByTotal>
-    <wantedByTotal>27</wantedByTotal>
+    <ownedByTotal>16</ownedByTotal>
+    <wantedByTotal>29</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>LEGO exclusive</availability>
@@ -3053,21 +3053,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5260-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5260-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5260-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5260-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5260-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5260-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5260-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5260-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>15</ownedByTotal>
-    <wantedByTotal>25</wantedByTotal>
+    <ownedByTotal>20</ownedByTotal>
+    <wantedByTotal>29</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>LEGO exclusive</availability>
@@ -3090,21 +3090,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5261-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5261-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5261-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5261-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5261-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5261-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5261-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5261-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>10</ownedByTotal>
-    <wantedByTotal>27</wantedByTotal>
+    <ownedByTotal>14</ownedByTotal>
+    <wantedByTotal>31</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>LEGO exclusive</availability>
@@ -3127,21 +3127,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5262-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5262-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5262-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5262-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5262-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5262-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5262-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5262-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>23</ownedByTotal>
-    <wantedByTotal>34</wantedByTotal>
+    <ownedByTotal>27</ownedByTotal>
+    <wantedByTotal>36</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>LEGO exclusive</availability>
@@ -3164,21 +3164,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5263-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5263-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5263-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5263-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5263-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5263-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5263-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5263-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>13</ownedByTotal>
-    <wantedByTotal>32</wantedByTotal>
+    <ownedByTotal>16</ownedByTotal>
+    <wantedByTotal>35</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>Polybag</packagingType>
     <availability>LEGO exclusive</availability>
@@ -3201,22 +3201,22 @@
     <minifigs />
     <image>true</image>
     <imageFilename>5590-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_5590-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/5590-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/5590-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_5590-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/5590-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/5590-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/5590-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1174</ownedByTotal>
-    <wantedByTotal>667</wantedByTotal>
+    <ownedByTotal>1476</ownedByTotal>
+    <wantedByTotal>826</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>80</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.64285714285714</rating>
-    <reviewCount>6</reviewCount>
+    <rating>5</rating>
+    <reviewCount>5</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
     <instructionsCount>0</instructionsCount>
@@ -3238,22 +3238,22 @@
     <minifigs>2</minifigs>
     <image>true</image>
     <imageFilename>6018-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6018-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6018-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6018-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6018-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6018-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6018-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6018-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>2041</ownedByTotal>
-    <wantedByTotal>399</wantedByTotal>
+    <ownedByTotal>2468</ownedByTotal>
+    <wantedByTotal>469</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>4.5</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.95454545454545</rating>
-    <reviewCount>10</reviewCount>
+    <rating>4.09090909090909</rating>
+    <reviewCount>11</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
     <instructionsCount>0</instructionsCount>
@@ -3275,21 +3275,21 @@
     <minifigs>2</minifigs>
     <image>true</image>
     <imageFilename>6034-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6034-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6034-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6034-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6034-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6034-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6034-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6034-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>4101</ownedByTotal>
-    <wantedByTotal>560</wantedByTotal>
+    <ownedByTotal>5030</ownedByTotal>
+    <wantedByTotal>669</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>7.25</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.16666666666667</rating>
+    <rating>4.25</rating>
     <reviewCount>20</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -3312,21 +3312,21 @@
     <minifigs>3</minifigs>
     <image>true</image>
     <imageFilename>6042-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6042-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6042-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6042-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6042-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6042-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6042-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6042-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1720</ownedByTotal>
-    <wantedByTotal>520</wantedByTotal>
+    <ownedByTotal>2085</ownedByTotal>
+    <wantedByTotal>613</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>12.75</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.35</rating>
+    <rating>3.44444444444444</rating>
     <reviewCount>9</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -3349,21 +3349,21 @@
     <minifigs>5</minifigs>
     <image>true</image>
     <imageFilename>6059-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6059-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6059-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6059-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6059-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6059-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6059-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6059-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1574</ownedByTotal>
-    <wantedByTotal>639</wantedByTotal>
+    <ownedByTotal>1962</ownedByTotal>
+    <wantedByTotal>766</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>22</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.27777777777778</rating>
+    <rating>4.5</rating>
     <reviewCount>8</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -3386,21 +3386,21 @@
     <minifigs>5</minifigs>
     <image>true</image>
     <imageFilename>6071-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6071-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6071-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6071-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6071-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6071-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6071-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6071-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1061</ownedByTotal>
-    <wantedByTotal>1251</wantedByTotal>
+    <ownedByTotal>1261</ownedByTotal>
+    <wantedByTotal>1497</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>28.5</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.55</rating>
+    <rating>4.77777777777778</rating>
     <reviewCount>9</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail - limited</availability>
@@ -3423,22 +3423,22 @@
     <minifigs>8</minifigs>
     <image>true</image>
     <imageFilename>6081-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6081-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6081-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6081-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6081-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6081-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6081-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6081-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1478</ownedByTotal>
-    <wantedByTotal>915</wantedByTotal>
+    <ownedByTotal>1827</ownedByTotal>
+    <wantedByTotal>1091</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>58</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.4047619047619</rating>
-    <reviewCount>20</reviewCount>
+    <rating>4.47368421052632</rating>
+    <reviewCount>19</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
     <instructionsCount>0</instructionsCount>
@@ -3460,21 +3460,21 @@
     <minifigs>3</minifigs>
     <image>true</image>
     <imageFilename>6354-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6354-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6354-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6354-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6354-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6354-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6354-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6354-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1821</ownedByTotal>
-    <wantedByTotal>277</wantedByTotal>
+    <ownedByTotal>2259</ownedByTotal>
+    <wantedByTotal>337</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>15.5</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.5</rating>
+    <rating>3.625</rating>
     <reviewCount>8</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -3497,21 +3497,21 @@
     <minifigs>2</minifigs>
     <image>true</image>
     <imageFilename>6375-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6375-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6375-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6375-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6375-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6375-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6375-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6375-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1660</ownedByTotal>
-    <wantedByTotal>398</wantedByTotal>
+    <ownedByTotal>1996</ownedByTotal>
+    <wantedByTotal>491</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.3</rating>
+    <rating>4.75</rating>
     <reviewCount>4</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -3534,22 +3534,22 @@
     <minifigs>5</minifigs>
     <image>true</image>
     <imageFilename>6376-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6376-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6376-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6376-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6376-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6376-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6376-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6376-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1377</ownedByTotal>
-    <wantedByTotal>635</wantedByTotal>
+    <ownedByTotal>1655</ownedByTotal>
+    <wantedByTotal>775</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>23</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.35714285714286</rating>
-    <reviewCount>6</reviewCount>
+    <rating>4.71428571428571</rating>
+    <reviewCount>7</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
     <instructionsCount>0</instructionsCount>
@@ -3571,22 +3571,22 @@
     <minifigs>4</minifigs>
     <image>true</image>
     <imageFilename>6389-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6389-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6389-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6389-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6389-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6389-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6389-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6389-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1471</ownedByTotal>
-    <wantedByTotal>362</wantedByTotal>
+    <ownedByTotal>1799</ownedByTotal>
+    <wantedByTotal>444</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>52</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.0625</rating>
-    <reviewCount>7</reviewCount>
+    <rating>4.125</rating>
+    <reviewCount>8</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
     <instructionsCount>0</instructionsCount>
@@ -3608,21 +3608,21 @@
     <minifigs>8</minifigs>
     <image>true</image>
     <imageFilename>6396-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6396-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6396-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6396-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6396-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6396-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6396-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6396-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1153</ownedByTotal>
-    <wantedByTotal>627</wantedByTotal>
+    <ownedByTotal>1373</ownedByTotal>
+    <wantedByTotal>787</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>69.75</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.05555555555556</rating>
+    <rating>4.25</rating>
     <reviewCount>8</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -3645,21 +3645,21 @@
     <minifigs>9</minifigs>
     <image>true</image>
     <imageFilename>6399-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6399-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6399-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6399-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6399-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6399-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6399-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6399-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>949</ownedByTotal>
-    <wantedByTotal>1289</wantedByTotal>
+    <ownedByTotal>1120</ownedByTotal>
+    <wantedByTotal>1538</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>140</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.85416666666667</rating>
+    <rating>4.95652173913043</rating>
     <reviewCount>23</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -3682,21 +3682,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>6508-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6508-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6508-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6508-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6508-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6508-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6508-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6508-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>2039</ownedByTotal>
-    <wantedByTotal>187</wantedByTotal>
+    <ownedByTotal>2466</ownedByTotal>
+    <wantedByTotal>221</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>3</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.7</rating>
+    <rating>4</rating>
     <reviewCount>4</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -3719,21 +3719,21 @@
     <minifigs>2</minifigs>
     <image>true</image>
     <imageFilename>6529-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6529-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6529-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6529-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6529-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6529-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6529-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6529-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1336</ownedByTotal>
-    <wantedByTotal>187</wantedByTotal>
+    <ownedByTotal>1632</ownedByTotal>
+    <wantedByTotal>219</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>4</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.5</rating>
+    <rating>3.75</rating>
     <reviewCount>4</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -3756,21 +3756,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>6530-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6530-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6530-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6530-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6530-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6530-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6530-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6530-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1508</ownedByTotal>
-    <wantedByTotal>276</wantedByTotal>
+    <ownedByTotal>1833</ownedByTotal>
+    <wantedByTotal>332</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.0625</rating>
+    <rating>4.28571428571429</rating>
     <reviewCount>7</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -3793,21 +3793,21 @@
     <minifigs>2</minifigs>
     <image>true</image>
     <imageFilename>6592-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6592-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6592-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6592-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6592-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6592-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6592-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6592-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1059</ownedByTotal>
-    <wantedByTotal>507</wantedByTotal>
+    <ownedByTotal>1262</ownedByTotal>
+    <wantedByTotal>607</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.21428571428571</rating>
+    <rating>4.5</rating>
     <reviewCount>6</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -3830,21 +3830,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>6644-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6644-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6644-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6644-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6644-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6644-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6644-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6644-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1824</ownedByTotal>
-    <wantedByTotal>277</wantedByTotal>
+    <ownedByTotal>2221</ownedByTotal>
+    <wantedByTotal>338</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>6</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.38888888888889</rating>
+    <rating>4.625</rating>
     <reviewCount>8</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -3867,21 +3867,21 @@
     <minifigs>2</minifigs>
     <image>true</image>
     <imageFilename>6672-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6672-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6672-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6672-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6672-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6672-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6672-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6672-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1551</ownedByTotal>
-    <wantedByTotal>396</wantedByTotal>
+    <ownedByTotal>1896</ownedByTotal>
+    <wantedByTotal>448</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.6875</rating>
+    <rating>5</rating>
     <reviewCount>7</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -3904,21 +3904,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>6673-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6673-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6673-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6673-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6673-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6673-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6673-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6673-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1826</ownedByTotal>
-    <wantedByTotal>329</wantedByTotal>
+    <ownedByTotal>2233</ownedByTotal>
+    <wantedByTotal>387</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>8</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.5</rating>
+    <rating>4.75</rating>
     <reviewCount>8</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -3941,21 +3941,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>6811-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6811-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6811-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6811-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6811-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6811-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6811-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6811-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>3071</ownedByTotal>
-    <wantedByTotal>324</wantedByTotal>
+    <ownedByTotal>3822</ownedByTotal>
+    <wantedByTotal>388</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>3</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.125</rating>
+    <rating>4.27272727272727</rating>
     <reviewCount>11</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -3963,7 +3963,7 @@
     <additionalImageCount>1</additionalImageCount>
     <EAN />
     <UPC />
-    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+    <lastUpdated>2015-05-03T09:38:17.917</lastUpdated>
   </sets>
   <sets>
     <setID>3647</setID>
@@ -3978,21 +3978,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>6833-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6833-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6833-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6833-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6833-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6833-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6833-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6833-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>2759</ownedByTotal>
-    <wantedByTotal>343</wantedByTotal>
+    <ownedByTotal>3391</ownedByTotal>
+    <wantedByTotal>420</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>3</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.85</rating>
+    <rating>4</rating>
     <reviewCount>9</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -4000,7 +4000,7 @@
     <additionalImageCount>1</additionalImageCount>
     <EAN />
     <UPC />
-    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+    <lastUpdated>2015-05-03T09:38:29.297</lastUpdated>
   </sets>
   <sets>
     <setID>3675</setID>
@@ -4015,21 +4015,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>6877-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6877-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6877-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6877-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6877-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6877-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6877-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6877-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>2186</ownedByTotal>
-    <wantedByTotal>347</wantedByTotal>
+    <ownedByTotal>2675</ownedByTotal>
+    <wantedByTotal>433</wantedByTotal>
     <UKRetailPrice />
-    <USRetailPrice />
+    <USRetailPrice>6.35</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.3</rating>
+    <rating>4.75</rating>
     <reviewCount>4</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -4037,7 +4037,7 @@
     <additionalImageCount>1</additionalImageCount>
     <EAN />
     <UPC>042884068776</UPC>
-    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+    <lastUpdated>2015-05-03T09:38:42.45</lastUpdated>
   </sets>
   <sets>
     <setID>3693</setID>
@@ -4052,29 +4052,29 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>6896-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6896-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6896-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6896-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6896-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6896-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6896-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6896-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1577</ownedByTotal>
-    <wantedByTotal>384</wantedByTotal>
+    <ownedByTotal>1946</ownedByTotal>
+    <wantedByTotal>480</wantedByTotal>
     <UKRetailPrice />
-    <USRetailPrice />
+    <USRetailPrice>10.95</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.08333333333333</rating>
-    <reviewCount>5</reviewCount>
+    <rating>4.33333333333333</rating>
+    <reviewCount>6</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
     <instructionsCount>0</instructionsCount>
     <additionalImageCount>1</additionalImageCount>
     <EAN />
     <UPC>042884068967</UPC>
-    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+    <lastUpdated>2015-05-03T09:38:55.367</lastUpdated>
   </sets>
   <sets>
     <setID>3708</setID>
@@ -4089,29 +4089,29 @@
     <minifigs>2</minifigs>
     <image>true</image>
     <imageFilename>6923-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6923-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6923-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6923-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6923-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6923-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6923-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6923-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1726</ownedByTotal>
-    <wantedByTotal>496</wantedByTotal>
+    <ownedByTotal>2145</ownedByTotal>
+    <wantedByTotal>615</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>24</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.45</rating>
-    <reviewCount>9</reviewCount>
+    <rating>4.57142857142857</rating>
+    <reviewCount>7</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
     <instructionsCount>0</instructionsCount>
     <additionalImageCount>1</additionalImageCount>
     <EAN />
     <UPC />
-    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+    <lastUpdated>2015-05-03T09:39:10.753</lastUpdated>
   </sets>
   <sets>
     <setID>3731</setID>
@@ -4126,29 +4126,29 @@
     <minifigs>2</minifigs>
     <image>true</image>
     <imageFilename>6956-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6956-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6956-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6956-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6956-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6956-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6956-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6956-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1028</ownedByTotal>
-    <wantedByTotal>535</wantedByTotal>
+    <ownedByTotal>1239</ownedByTotal>
+    <wantedByTotal>650</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>36</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.3125</rating>
-    <reviewCount>7</reviewCount>
+    <rating>4.625</rating>
+    <reviewCount>8</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
     <instructionsCount>0</instructionsCount>
     <additionalImageCount>1</additionalImageCount>
     <EAN />
     <UPC />
-    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+    <lastUpdated>2015-05-03T09:39:24.95</lastUpdated>
   </sets>
   <sets>
     <setID>3757</setID>
@@ -4163,29 +4163,29 @@
     <minifigs>3</minifigs>
     <image>true</image>
     <imageFilename>6989-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_6989-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/6989-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/6989-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_6989-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/6989-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/6989-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/6989-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1174</ownedByTotal>
-    <wantedByTotal>698</wantedByTotal>
+    <ownedByTotal>1421</ownedByTotal>
+    <wantedByTotal>847</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>60</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.75</rating>
-    <reviewCount>13</reviewCount>
+    <rating>4.92857142857143</rating>
+    <reviewCount>14</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
     <instructionsCount>0</instructionsCount>
     <additionalImageCount>1</additionalImageCount>
     <EAN />
     <UPC>042884069896</UPC>
-    <lastUpdated>0001-01-01T00:00:00</lastUpdated>
+    <lastUpdated>2015-05-03T09:39:38.5</lastUpdated>
   </sets>
   <sets>
     <setID>4116</setID>
@@ -4200,21 +4200,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>8064-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_8064-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/8064-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/8064-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_8064-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/8064-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/8064-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/8064-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>710</ownedByTotal>
-    <wantedByTotal>116</wantedByTotal>
+    <ownedByTotal>895</ownedByTotal>
+    <wantedByTotal>137</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>55</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.625</rating>
+    <rating>4</rating>
     <reviewCount>3</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -4237,22 +4237,22 @@
     <minifigs />
     <image>true</image>
     <imageFilename>8094-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_8094-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/8094-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/8094-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_8094-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/8094-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/8094-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/8094-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>794</ownedByTotal>
-    <wantedByTotal>293</wantedByTotal>
+    <ownedByTotal>999</ownedByTotal>
+    <wantedByTotal>384</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.8125</rating>
-    <reviewCount>7</reviewCount>
+    <rating>4.125</rating>
+    <reviewCount>8</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
     <instructionsCount>0</instructionsCount>
@@ -4274,21 +4274,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>8720-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_8720-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/8720-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/8720-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_8720-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/8720-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/8720-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/8720-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1408</ownedByTotal>
-    <wantedByTotal>115</wantedByTotal>
+    <ownedByTotal>1702</ownedByTotal>
+    <wantedByTotal>147</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>36</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>4.1</rating>
+    <rating>4.5</rating>
     <reviewCount>4</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -4311,21 +4311,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>8825-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_8825-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/8825-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/8825-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_8825-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/8825-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/8825-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/8825-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>1021</ownedByTotal>
-    <wantedByTotal>105</wantedByTotal>
+    <ownedByTotal>1282</ownedByTotal>
+    <wantedByTotal>127</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.875</rating>
+    <rating>3</rating>
     <reviewCount>3</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -4348,21 +4348,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>8830-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_8830-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/8830-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/8830-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_8830-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/8830-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/8830-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/8830-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>632</ownedByTotal>
-    <wantedByTotal>115</wantedByTotal>
+    <ownedByTotal>782</ownedByTotal>
+    <wantedByTotal>139</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.83333333333333</rating>
+    <rating>4.5</rating>
     <reviewCount>2</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -4385,21 +4385,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>8840-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_8840-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/8840-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/8840-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_8840-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/8840-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/8840-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/8840-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>678</ownedByTotal>
-    <wantedByTotal>122</wantedByTotal>
+    <ownedByTotal>831</ownedByTotal>
+    <wantedByTotal>150</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.625</rating>
+    <rating>4</rating>
     <reviewCount>3</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -4422,21 +4422,21 @@
     <minifigs>1</minifigs>
     <image>true</image>
     <imageFilename>8850-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_8850-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/8850-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/8850-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_8850-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/8850-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/8850-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/8850-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>507</ownedByTotal>
-    <wantedByTotal>188</wantedByTotal>
+    <ownedByTotal>638</ownedByTotal>
+    <wantedByTotal>238</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>3.9</rating>
+    <rating>4.25</rating>
     <reviewCount>4</reviewCount>
     <packagingType>Box</packagingType>
     <availability>Retail</availability>
@@ -4459,21 +4459,21 @@
     <minifigs>8</minifigs>
     <image>true</image>
     <imageFilename>9355-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_9355-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/9355-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/9355-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_9355-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/9355-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/9355-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/9355-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>10</ownedByTotal>
-    <wantedByTotal>81</wantedByTotal>
+    <ownedByTotal>14</ownedByTotal>
+    <wantedByTotal>100</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice />
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>{Not specified}</packagingType>
     <availability>{Not specified}</availability>
@@ -4496,21 +4496,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>9920-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_9920-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/9920-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/9920-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_9920-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/9920-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/9920-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/9920-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>14</ownedByTotal>
-    <wantedByTotal>41</wantedByTotal>
+    <ownedByTotal>17</ownedByTotal>
+    <wantedByTotal>49</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>12.5</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.5</rating>
+    <rating>0</rating>
     <reviewCount>0</reviewCount>
     <packagingType>{Not specified}</packagingType>
     <availability>{Not specified}</availability>
@@ -4533,21 +4533,21 @@
     <minifigs />
     <image>true</image>
     <imageFilename>9922-1</imageFilename>
-    <thumbnailURL>http://www.1000steine.com/brickset/thumbs/tn_9922-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>http://www.1000steine.com/brickset/small/9922-1.jpg</largeThumbnailURL>
-    <imageURL>http://www.1000steine.com/brickset/images/9922-1.jpg</imageURL>
+    <thumbnailURL>http://images.brickset.com/sets/thumbs/tn_9922-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>http://images.brickset.com/sets/small/9922-1.jpg</largeThumbnailURL>
+    <imageURL>http://images.brickset.com/sets/images/9922-1.jpg</imageURL>
     <bricksetURL>http://brickset.com/sets/9922-1</bricksetURL>
     <owned>false</owned>
     <wanted>false</wanted>
     <qtyOwned>0</qtyOwned>
     <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>16</ownedByTotal>
-    <wantedByTotal>42</wantedByTotal>
+    <ownedByTotal>20</ownedByTotal>
+    <wantedByTotal>50</wantedByTotal>
     <UKRetailPrice />
     <USRetailPrice>6.75</USRetailPrice>
     <CARetailPrice />
     <EURetailPrice />
-    <rating>2.25</rating>
+    <rating>2</rating>
     <reviewCount>1</reviewCount>
     <packagingType>{Not specified}</packagingType>
     <availability>{Not specified}</availability>

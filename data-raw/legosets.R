@@ -3,7 +3,7 @@ library(dplyr)
 
 # Read xml files
 parsed_xml <- list()
-for(i in 1965:2014){
+for(i in 1970:2015){
   file_name <- file.path("data-raw", paste0(i, ".xml"))
   parsed_xml[[i]] <- xmlToDataFrame(xmlParse(file_name))
 }
@@ -52,6 +52,7 @@ legosets <- arrange(legosets, desc(Year), Item_Number)
 # Change some names which contain non-ascii characters
 legosets$Name <- chartr("–üé", "-ue", legosets$Name)
 legosets$Name <- gsub("°", " degree", legosets$Name)
+legosets$Name <- gsub("•", "-", legosets$Name)
 
 save(legosets, file="data/legosets.rda")
 write.csv(legosets, file="data-tidy/legosets.csv", row.names = FALSE)
