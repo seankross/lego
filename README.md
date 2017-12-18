@@ -1,6 +1,6 @@
 # lego
 
-This R data package contains information about every Lego set manufactured from 1970 to 2015, a total of 6172 sets. A few of the variables included for each set are:
+This R data package contains information about every LEGO set manufactured from 1970 to 2015, a total of 6172 sets. A few of the variables included for each set are:
 
 - Item number
 - Name
