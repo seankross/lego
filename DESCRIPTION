@@ -1,10 +1,10 @@
 Package: lego
 Type: Package
-Title: Lego set data 1970-2015
+Title: LEGO set data for 1970-2015
 Version: 0.2
 Date: 2015-09-06
 Authors@R: 'Sean Kross <smk240@gmail.com> [aut,cre]'
-Description: Data for every lego set produced from 1970 to 2015 including number
+Description: Data for every LEGO set produced from 1970 to 2015 including number
     of pieces per set, number of minifigures per set, and region specific MSRP.
 Depends:
     R (>= 3.1.0)
