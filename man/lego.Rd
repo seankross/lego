@@ -4,9 +4,9 @@
 \name{lego}
 \alias{lego}
 \alias{lego-package}
-\title{Lego set data 1970-2015}
+\title{LEGO set data 1970-2015}
 \description{
-Data for every lego set produced from 1970 to 2015 including number
+Data for every LEGO set produced from 1970 to 2015 including number
 of pieces per set, number of minifigures per set, and region specific MSRP.
 }
 \seealso{

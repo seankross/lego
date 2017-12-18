@@ -1,11 +1,11 @@
-#' Lego set data
+#' LEGO set data
 #'
-#' Data about every lego set from 1970 to 2014.
+#' Data about every LEGO set from 1970 to 2014.
 #'
 #' @source \url{http://brickset.com/}, downloaded 2014-08-06
 #' @format A data frame with columns:
 #' \describe{
-#'  \item{Item_Number}{Item number for each lego set}
+#'  \item{Item_Number}{Item number for each LEGO set}
 #'  \item{Name}{Name of set}
 #'  \item{Year}{Year set was manufactured}
 #'  \item{Theme}{Theme of set}
