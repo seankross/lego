@@ -3,10 +3,10 @@
 \docType{data}
 \name{legosets}
 \alias{legosets}
-\title{Lego set data}
+\title{LEGO set data}
 \format{A data frame with columns:
 \describe{
- \item{Item_Number}{Item number for each lego set}
+ \item{Item_Number}{Item number for each LEGO set}
  \item{Name}{Name of set}
  \item{Year}{Year set was manufactured}
  \item{Theme}{Theme of set}
@@ -32,7 +32,7 @@
 legosets
 }
 \description{
-Data about every lego set from 1970 to 2014.
+Data about every LEGO set from 1970 to 2014.
 }
 \examples{
 legosets
