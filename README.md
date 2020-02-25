@@ -10,6 +10,9 @@ This R data package contains information about every Lego set manufactured from 
 - Number of minifigures included
 - Price
 
+## Lego is also a fun puzzle game!
+
+
 ## To install:
 
 ```r
